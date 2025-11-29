@@ -1,4 +1,4 @@
-# Project Overview — Grooming Detection (Academic Direction)
+# Project Overview — Grooming Detection (Academic Study)
 
 ## 1. Short Description
 
@@ -14,15 +14,17 @@ The project is part of the MIT Emerging Talent ELO2 Capstone.
 
 ## 2. Motivation
 
-Online grooming is a serious safety issue for children, especially in game chats where conversations look casual and friendly at the beginning. Most existing tools rely on keyword lists and basic filters, which often miss subtle grooming patterns.
+Online grooming is a serious and often invisible safety risk for children, especially in gaming chats where conversations appear casual, friendly, and harmless in the beginning. Most existing safety tools rely on simple keyword lists and basic filters, which struggle to detect the subtle, psychological patterns that groomers use.
 
-However, researchers and developers cannot easily access real chat logs because of strict privacy protections and the huge cost of scanning messages in real time. This project takes an academic approach: it uses synthetic data to ask “what could ML do in theory?” while being honest about what this cannot tell us about the real world.
+At the same time, researchers and developers face major barriers: real chat logs are protected by strict privacy rules, and monitoring platforms in real time is extremely costly. Because of these challenges, this project adopts an academic approach — using synthetic data to explore what machine learning could do in theory, while being transparent about what synthetic data cannot represent about the real world.
+
+As a mother who watches her own children navigate online games every day, this problem is deeply personal for me. I see how much joy and learning these games bring them, but I also see the risks hidden in the background. This project began from a place of wanting to protect my kids — and every child — by understanding how technology might help create safer digital spaces without taking away the benefits of play.
 
 ---
 
 ## 3. Scope and Direction
 
-After discussions with my mentor, I chose to focus on the **academic direction** rather than trying to build a fully practical or real-time system.
+After discussions with my supervisor, I chose to focus on the **academic direction** rather than trying to build a fully practical or real-time system.
 
 That means this project focuses on:
 
