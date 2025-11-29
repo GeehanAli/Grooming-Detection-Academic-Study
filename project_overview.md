@@ -1,6 +1,6 @@
 # Project Overview — Grooming Detection (Academic Study)
 
-## 1. Short Description
+## 1. Description
 
 This project is an **academic machine-learning study** on detecting online grooming in gaming chats using synthetic data. Because real chat logs are private and not accessible, the goal is not to build a deployed product, but to:
 
@@ -33,7 +33,7 @@ That means this project focuses on:
 - analysis of metrics and behavior,
 - and a clear discussion of limitations and future work.
 
-I will **not** attempt to solve:
+It will **not** attempt to solve:
 
 - real-time data collection from platforms,
 - legal/privacy integration with real systems,
