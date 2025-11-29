@@ -16,9 +16,10 @@ The project is part of the MIT Emerging Talent ELO2 Capstone.
 
 Online grooming is a serious and often invisible safety risk for children, especially in gaming chats where conversations appear casual, friendly, and harmless in the beginning. Most existing safety tools rely on simple keyword lists and basic filters, which struggle to detect the subtle, psychological patterns that groomers use.
 
-At the same time, researchers and developers face major barriers: real chat logs are protected by strict privacy rules, and monitoring platforms in real time is extremely costly. Because of these challenges, this project adopts an academic approach — using synthetic data to explore what machine learning could do in theory, while being transparent about what synthetic data cannot represent about the real world.
+At the same time, researchers and developers face major barriers: real chat logs are protected by strict privacy rules, and monitoring platforms in real time is extremely costly. Because of these challenges, this project adopts an academic approach — using synthetic data to explore what machine learning could do in theory, while remaining transparent about the limits of what synthetic data can represent about real online behavior.
 
-As a mother who watches her own children navigate online games every day, this problem is deeply personal for me. I see how much joy and learning these games bring them, but I also see the risks hidden in the background. This project began from a place of wanting to protect my kids — and every child — by understanding how technology might help create safer digital spaces without taking away the benefits of play.
+As a mother who watches her own children navigate online games every day, this issue is deeply personal. I see the joy, creativity, and learning these games bring them, but I also recognize the hidden risks that often go unnoticed. This project grew from a desire to protect my kids — and every child — by exploring how technology might help create safer digital spaces without taking away the benefits and positive experiences of play.
+
 
 ---
 
