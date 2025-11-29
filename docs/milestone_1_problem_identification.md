@@ -65,13 +65,3 @@ This project positions itself as a small, focused academic contribution: it expl
 
 ---
 
-## 5. Success Criteria for Milestone 1
-
-By the end of Milestone 1, the project should have:
-
-- A clear and realistic problem statement (this document).
-- A focused set of research questions that are achievable within the ELO2 timeline.
-- An explicit description of constraints and assumptions so that results are interpreted appropriately.
-- A repository structure that supports the next milestones (data, notebooks, docs).
-
-Milestone 2 will focus on designing and generating the synthetic dataset that will be used to explore these questions.
