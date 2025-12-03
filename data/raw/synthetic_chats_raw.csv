@@ -1,0 +1,1827 @@
+conversation_id,turn_id,speaker_role,text,label,stage
+0,0,child,"gotta go, see you tomorrow.",non_grooming,none
+0,1,child,nice shot! that was crazy.,non_grooming,none
+0,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+0,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+0,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+0,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+0,6,child,"brb, need to finish homework.",non_grooming,none
+0,7,adult,anyone wanna join my team?,non_grooming,none
+0,8,adult,my internet is lagging again omg.,non_grooming,none
+0,9,adult,my internet is lagging again omg.,non_grooming,none
+0,10,child,my internet is lagging again omg.,non_grooming,none
+0,11,adult,"gotta go, see you tomorrow.",non_grooming,none
+1,0,adult,my internet is lagging again omg.,non_grooming,none
+1,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+1,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+1,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+1,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+1,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+1,6,child,nice shot! that was crazy.,non_grooming,none
+1,7,child,"gotta go, see you tomorrow.",non_grooming,none
+1,8,child,anyone wanna join my team?,non_grooming,none
+1,9,adult,nice shot! that was crazy.,non_grooming,none
+1,10,adult,anyone wanna join my team?,non_grooming,none
+1,11,adult,nice shot! that was crazy.,non_grooming,none
+2,0,child,"brb, need to finish homework.",non_grooming,none
+2,1,adult,"brb, need to finish homework.",non_grooming,none
+2,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+2,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+2,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+2,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+2,6,child,"brb, need to finish homework.",non_grooming,none
+2,7,child,anyone wanna join my team?,non_grooming,none
+2,8,adult,anyone wanna join my team?,non_grooming,none
+2,9,child,my internet is lagging again omg.,non_grooming,none
+2,10,adult,nice shot! that was crazy.,non_grooming,none
+3,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+3,1,child,"brb, need to finish homework.",non_grooming,none
+3,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+3,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+3,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+3,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+3,6,child,"gotta go, see you tomorrow.",non_grooming,none
+4,0,adult,anyone wanna join my team?,non_grooming,none
+4,1,child,"brb, need to finish homework.",non_grooming,none
+4,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+4,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+4,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+4,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+4,6,adult,anyone wanna join my team?,non_grooming,none
+4,7,adult,my internet is lagging again omg.,non_grooming,none
+4,8,child,"gotta go, see you tomorrow.",non_grooming,none
+4,9,child,nice shot! that was crazy.,non_grooming,none
+5,0,child,anyone wanna join my team?,non_grooming,none
+5,1,child,nice shot! that was crazy.,non_grooming,none
+5,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+5,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+5,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+5,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+5,6,adult,nice shot! that was crazy.,non_grooming,none
+5,7,adult,"brb, need to finish homework.",non_grooming,none
+5,8,adult,anyone wanna join my team?,non_grooming,none
+5,9,adult,nice shot! that was crazy.,non_grooming,none
+6,0,child,"brb, need to finish homework.",non_grooming,none
+6,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+6,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+6,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+6,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+6,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+6,6,child,nice shot! that was crazy.,non_grooming,none
+7,0,adult,"brb, need to finish homework.",non_grooming,none
+7,1,adult,nice shot! that was crazy.,non_grooming,none
+7,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+7,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+7,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+7,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+7,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+7,7,child,anyone wanna join my team?,non_grooming,none
+7,8,adult,anyone wanna join my team?,non_grooming,none
+7,9,adult,nice shot! that was crazy.,non_grooming,none
+7,10,child,"brb, need to finish homework.",non_grooming,none
+8,0,child,my internet is lagging again omg.,non_grooming,none
+8,1,child,nice shot! that was crazy.,non_grooming,none
+8,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+8,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+8,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+8,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+9,0,child,nice shot! that was crazy.,non_grooming,none
+9,1,adult,"brb, need to finish homework.",non_grooming,none
+9,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+9,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+9,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+9,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+9,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+10,0,adult,nice shot! that was crazy.,non_grooming,none
+10,1,adult,"brb, need to finish homework.",non_grooming,none
+10,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+10,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+10,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+10,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+10,6,adult,my internet is lagging again omg.,non_grooming,none
+11,0,adult,my internet is lagging again omg.,non_grooming,none
+11,1,child,my internet is lagging again omg.,non_grooming,none
+11,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+11,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+11,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+11,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+11,6,child,"gotta go, see you tomorrow.",non_grooming,none
+11,7,child,my internet is lagging again omg.,non_grooming,none
+11,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+11,9,adult,my internet is lagging again omg.,non_grooming,none
+12,0,child,"brb, need to finish homework.",non_grooming,none
+12,1,child,nice shot! that was crazy.,non_grooming,none
+12,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+12,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+12,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+12,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+12,6,adult,"brb, need to finish homework.",non_grooming,none
+12,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+13,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+13,1,child,nice shot! that was crazy.,non_grooming,none
+13,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+13,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+13,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+13,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+14,0,adult,anyone wanna join my team?,non_grooming,none
+14,1,child,anyone wanna join my team?,non_grooming,none
+14,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+14,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+14,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+14,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+14,6,child,my internet is lagging again omg.,non_grooming,none
+14,7,adult,my internet is lagging again omg.,non_grooming,none
+14,8,child,anyone wanna join my team?,non_grooming,none
+15,0,adult,"brb, need to finish homework.",non_grooming,none
+15,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+15,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+15,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+15,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+15,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+16,0,adult,nice shot! that was crazy.,non_grooming,none
+16,1,child,"gotta go, see you tomorrow.",non_grooming,none
+16,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+16,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+16,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+16,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+16,6,adult,nice shot! that was crazy.,non_grooming,none
+16,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+17,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+17,1,adult,nice shot! that was crazy.,non_grooming,none
+17,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+17,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+17,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+17,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+17,6,adult,nice shot! that was crazy.,non_grooming,none
+17,7,adult,my internet is lagging again omg.,non_grooming,none
+17,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+17,9,adult,anyone wanna join my team?,non_grooming,none
+18,0,child,nice shot! that was crazy.,non_grooming,none
+18,1,child,"brb, need to finish homework.",non_grooming,none
+18,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+18,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+18,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+18,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+18,6,child,"brb, need to finish homework.",non_grooming,none
+18,7,child,anyone wanna join my team?,non_grooming,none
+18,8,adult,my internet is lagging again omg.,non_grooming,none
+18,9,child,my internet is lagging again omg.,non_grooming,none
+18,10,child,"gotta go, see you tomorrow.",non_grooming,none
+18,11,adult,nice shot! that was crazy.,non_grooming,none
+19,0,adult,nice shot! that was crazy.,non_grooming,none
+19,1,child,"brb, need to finish homework.",non_grooming,none
+19,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+19,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+19,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+19,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+19,6,adult,"brb, need to finish homework.",non_grooming,none
+19,7,adult,nice shot! that was crazy.,non_grooming,none
+19,8,child,"brb, need to finish homework.",non_grooming,none
+20,0,child,nice shot! that was crazy.,non_grooming,none
+20,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+20,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+20,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+20,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+20,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+21,0,child,"gotta go, see you tomorrow.",non_grooming,none
+21,1,adult,anyone wanna join my team?,non_grooming,none
+21,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+21,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+21,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+21,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+21,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+21,7,adult,anyone wanna join my team?,non_grooming,none
+21,8,adult,nice shot! that was crazy.,non_grooming,none
+22,0,adult,my internet is lagging again omg.,non_grooming,none
+22,1,adult,my internet is lagging again omg.,non_grooming,none
+22,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+22,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+22,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+22,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+22,6,adult,my internet is lagging again omg.,non_grooming,none
+22,7,child,my internet is lagging again omg.,non_grooming,none
+22,8,adult,my internet is lagging again omg.,non_grooming,none
+22,9,child,my internet is lagging again omg.,non_grooming,none
+22,10,adult,anyone wanna join my team?,non_grooming,none
+23,0,adult,"brb, need to finish homework.",non_grooming,none
+23,1,child,"gotta go, see you tomorrow.",non_grooming,none
+23,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+23,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+23,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+23,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+23,6,child,anyone wanna join my team?,non_grooming,none
+24,0,child,my internet is lagging again omg.,non_grooming,none
+24,1,adult,my internet is lagging again omg.,non_grooming,none
+24,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+24,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+24,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+24,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+24,6,adult,anyone wanna join my team?,non_grooming,none
+24,7,adult,anyone wanna join my team?,non_grooming,none
+24,8,adult,anyone wanna join my team?,non_grooming,none
+24,9,child,my internet is lagging again omg.,non_grooming,none
+24,10,child,my internet is lagging again omg.,non_grooming,none
+25,0,child,"gotta go, see you tomorrow.",non_grooming,none
+25,1,child,anyone wanna join my team?,non_grooming,none
+25,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+25,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+25,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+25,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+26,0,child,anyone wanna join my team?,non_grooming,none
+26,1,child,"gotta go, see you tomorrow.",non_grooming,none
+26,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+26,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+26,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+26,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+26,6,adult,"brb, need to finish homework.",non_grooming,none
+26,7,child,my internet is lagging again omg.,non_grooming,none
+27,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+27,1,adult,nice shot! that was crazy.,non_grooming,none
+27,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+27,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+27,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+27,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+27,6,child,"gotta go, see you tomorrow.",non_grooming,none
+27,7,adult,anyone wanna join my team?,non_grooming,none
+27,8,adult,anyone wanna join my team?,non_grooming,none
+27,9,adult,anyone wanna join my team?,non_grooming,none
+27,10,child,"brb, need to finish homework.",non_grooming,none
+28,0,adult,nice shot! that was crazy.,non_grooming,none
+28,1,child,"brb, need to finish homework.",non_grooming,none
+28,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+28,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+28,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+28,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+28,6,adult,"brb, need to finish homework.",non_grooming,none
+28,7,child,anyone wanna join my team?,non_grooming,none
+28,8,child,my internet is lagging again omg.,non_grooming,none
+28,9,adult,"brb, need to finish homework.",non_grooming,none
+28,10,child,my internet is lagging again omg.,non_grooming,none
+29,0,adult,nice shot! that was crazy.,non_grooming,none
+29,1,adult,anyone wanna join my team?,non_grooming,none
+29,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+29,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+29,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+29,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+30,0,child,nice shot! that was crazy.,non_grooming,none
+30,1,child,"gotta go, see you tomorrow.",non_grooming,none
+30,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+30,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+30,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+30,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+30,6,child,anyone wanna join my team?,non_grooming,none
+30,7,adult,"brb, need to finish homework.",non_grooming,none
+30,8,adult,nice shot! that was crazy.,non_grooming,none
+31,0,child,nice shot! that was crazy.,non_grooming,none
+31,1,child,"brb, need to finish homework.",non_grooming,none
+31,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+31,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+31,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+31,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+31,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+32,0,child,"brb, need to finish homework.",non_grooming,none
+32,1,child,anyone wanna join my team?,non_grooming,none
+32,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+32,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+32,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+32,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+32,6,child,anyone wanna join my team?,non_grooming,none
+32,7,adult,"brb, need to finish homework.",non_grooming,none
+33,0,child,"gotta go, see you tomorrow.",non_grooming,none
+33,1,child,"brb, need to finish homework.",non_grooming,none
+33,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+33,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+33,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+33,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+33,6,adult,anyone wanna join my team?,non_grooming,none
+33,7,child,"gotta go, see you tomorrow.",non_grooming,none
+33,8,child,anyone wanna join my team?,non_grooming,none
+33,9,adult,my internet is lagging again omg.,non_grooming,none
+33,10,child,"gotta go, see you tomorrow.",non_grooming,none
+34,0,adult,my internet is lagging again omg.,non_grooming,none
+34,1,child,my internet is lagging again omg.,non_grooming,none
+34,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+34,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+34,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+34,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+34,6,child,anyone wanna join my team?,non_grooming,none
+35,0,child,anyone wanna join my team?,non_grooming,none
+35,1,child,anyone wanna join my team?,non_grooming,none
+35,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+35,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+35,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+35,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+35,6,child,"gotta go, see you tomorrow.",non_grooming,none
+35,7,adult,"brb, need to finish homework.",non_grooming,none
+35,8,child,my internet is lagging again omg.,non_grooming,none
+35,9,adult,my internet is lagging again omg.,non_grooming,none
+35,10,adult,"gotta go, see you tomorrow.",non_grooming,none
+35,11,child,"gotta go, see you tomorrow.",non_grooming,none
+36,0,adult,anyone wanna join my team?,non_grooming,none
+36,1,adult,nice shot! that was crazy.,non_grooming,none
+36,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+36,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+36,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+36,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+36,6,child,anyone wanna join my team?,non_grooming,none
+36,7,adult,"brb, need to finish homework.",non_grooming,none
+36,8,child,my internet is lagging again omg.,non_grooming,none
+36,9,adult,nice shot! that was crazy.,non_grooming,none
+36,10,child,anyone wanna join my team?,non_grooming,none
+37,0,child,"brb, need to finish homework.",non_grooming,none
+37,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+37,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+37,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+37,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+37,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+37,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+37,7,child,my internet is lagging again omg.,non_grooming,none
+37,8,child,"brb, need to finish homework.",non_grooming,none
+37,9,adult,"brb, need to finish homework.",non_grooming,none
+37,10,adult,my internet is lagging again omg.,non_grooming,none
+37,11,adult,anyone wanna join my team?,non_grooming,none
+38,0,child,nice shot! that was crazy.,non_grooming,none
+38,1,child,"gotta go, see you tomorrow.",non_grooming,none
+38,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+38,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+38,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+38,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+38,6,adult,nice shot! that was crazy.,non_grooming,none
+38,7,adult,nice shot! that was crazy.,non_grooming,none
+39,0,child,anyone wanna join my team?,non_grooming,none
+39,1,adult,nice shot! that was crazy.,non_grooming,none
+39,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+39,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+39,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+39,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+39,6,child,nice shot! that was crazy.,non_grooming,none
+39,7,child,my internet is lagging again omg.,non_grooming,none
+40,0,adult,anyone wanna join my team?,non_grooming,none
+40,1,child,"gotta go, see you tomorrow.",non_grooming,none
+40,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+40,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+40,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+40,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+41,0,child,"gotta go, see you tomorrow.",non_grooming,none
+41,1,child,my internet is lagging again omg.,non_grooming,none
+41,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+41,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+41,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+41,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+41,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+41,7,child,"gotta go, see you tomorrow.",non_grooming,none
+41,8,adult,nice shot! that was crazy.,non_grooming,none
+41,9,child,"brb, need to finish homework.",non_grooming,none
+42,0,child,nice shot! that was crazy.,non_grooming,none
+42,1,adult,anyone wanna join my team?,non_grooming,none
+42,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+42,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+42,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+42,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+42,6,child,nice shot! that was crazy.,non_grooming,none
+42,7,child,nice shot! that was crazy.,non_grooming,none
+43,0,adult,nice shot! that was crazy.,non_grooming,none
+43,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+43,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+43,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+43,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+43,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+43,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+43,7,adult,my internet is lagging again omg.,non_grooming,none
+43,8,child,nice shot! that was crazy.,non_grooming,none
+43,9,adult,anyone wanna join my team?,non_grooming,none
+43,10,child,nice shot! that was crazy.,non_grooming,none
+43,11,child,my internet is lagging again omg.,non_grooming,none
+44,0,child,nice shot! that was crazy.,non_grooming,none
+44,1,adult,"brb, need to finish homework.",non_grooming,none
+44,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+44,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+44,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+44,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+44,6,child,"gotta go, see you tomorrow.",non_grooming,none
+44,7,adult,nice shot! that was crazy.,non_grooming,none
+45,0,child,anyone wanna join my team?,non_grooming,none
+45,1,child,anyone wanna join my team?,non_grooming,none
+45,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+45,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+45,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+45,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+45,6,adult,my internet is lagging again omg.,non_grooming,none
+45,7,child,"gotta go, see you tomorrow.",non_grooming,none
+45,8,child,my internet is lagging again omg.,non_grooming,none
+45,9,child,"brb, need to finish homework.",non_grooming,none
+46,0,adult,"brb, need to finish homework.",non_grooming,none
+46,1,child,nice shot! that was crazy.,non_grooming,none
+46,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+46,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+46,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+46,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+46,6,child,my internet is lagging again omg.,non_grooming,none
+46,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+47,0,child,"gotta go, see you tomorrow.",non_grooming,none
+47,1,adult,anyone wanna join my team?,non_grooming,none
+47,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+47,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+47,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+47,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+47,6,adult,nice shot! that was crazy.,non_grooming,none
+47,7,child,anyone wanna join my team?,non_grooming,none
+47,8,child,"gotta go, see you tomorrow.",non_grooming,none
+47,9,child,anyone wanna join my team?,non_grooming,none
+47,10,child,nice shot! that was crazy.,non_grooming,none
+47,11,adult,"gotta go, see you tomorrow.",non_grooming,none
+48,0,child,my internet is lagging again omg.,non_grooming,none
+48,1,child,anyone wanna join my team?,non_grooming,none
+48,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+48,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+48,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+48,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+48,6,adult,nice shot! that was crazy.,non_grooming,none
+48,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+48,8,adult,"brb, need to finish homework.",non_grooming,none
+48,9,child,anyone wanna join my team?,non_grooming,none
+49,0,child,"brb, need to finish homework.",non_grooming,none
+49,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+49,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+49,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+49,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+49,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+49,6,adult,my internet is lagging again omg.,non_grooming,none
+49,7,child,nice shot! that was crazy.,non_grooming,none
+49,8,child,nice shot! that was crazy.,non_grooming,none
+49,9,adult,my internet is lagging again omg.,non_grooming,none
+49,10,adult,"gotta go, see you tomorrow.",non_grooming,none
+49,11,child,nice shot! that was crazy.,non_grooming,none
+50,0,child,my internet is lagging again omg.,non_grooming,none
+50,1,adult,my internet is lagging again omg.,non_grooming,none
+50,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+50,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+50,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+50,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+50,6,adult,anyone wanna join my team?,non_grooming,none
+50,7,adult,anyone wanna join my team?,non_grooming,none
+51,0,child,anyone wanna join my team?,non_grooming,none
+51,1,child,my internet is lagging again omg.,non_grooming,none
+51,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+51,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+51,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+51,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+52,0,adult,nice shot! that was crazy.,non_grooming,none
+52,1,child,"brb, need to finish homework.",non_grooming,none
+52,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+52,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+52,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+52,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+52,6,adult,"brb, need to finish homework.",non_grooming,none
+52,7,child,my internet is lagging again omg.,non_grooming,none
+52,8,child,my internet is lagging again omg.,non_grooming,none
+52,9,child,"brb, need to finish homework.",non_grooming,none
+53,0,child,anyone wanna join my team?,non_grooming,none
+53,1,adult,anyone wanna join my team?,non_grooming,none
+53,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+53,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+53,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+53,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+53,6,adult,anyone wanna join my team?,non_grooming,none
+53,7,child,"gotta go, see you tomorrow.",non_grooming,none
+54,0,child,my internet is lagging again omg.,non_grooming,none
+54,1,adult,my internet is lagging again omg.,non_grooming,none
+54,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+54,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+54,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+54,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+55,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+55,1,child,"brb, need to finish homework.",non_grooming,none
+55,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+55,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+55,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+55,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+55,6,adult,anyone wanna join my team?,non_grooming,none
+55,7,child,"gotta go, see you tomorrow.",non_grooming,none
+55,8,adult,my internet is lagging again omg.,non_grooming,none
+56,0,adult,nice shot! that was crazy.,non_grooming,none
+56,1,child,"brb, need to finish homework.",non_grooming,none
+56,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+56,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+56,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+56,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+56,6,child,anyone wanna join my team?,non_grooming,none
+56,7,adult,nice shot! that was crazy.,non_grooming,none
+57,0,child,anyone wanna join my team?,non_grooming,none
+57,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+57,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+57,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+57,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+57,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+57,6,child,"brb, need to finish homework.",non_grooming,none
+57,7,adult,anyone wanna join my team?,non_grooming,none
+57,8,child,"brb, need to finish homework.",non_grooming,none
+57,9,child,anyone wanna join my team?,non_grooming,none
+57,10,child,nice shot! that was crazy.,non_grooming,none
+58,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+58,1,child,"brb, need to finish homework.",non_grooming,none
+58,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+58,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+58,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+58,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+58,6,child,nice shot! that was crazy.,non_grooming,none
+58,7,adult,my internet is lagging again omg.,non_grooming,none
+58,8,child,nice shot! that was crazy.,non_grooming,none
+58,9,adult,my internet is lagging again omg.,non_grooming,none
+58,10,child,nice shot! that was crazy.,non_grooming,none
+59,0,child,nice shot! that was crazy.,non_grooming,none
+59,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+59,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+59,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+59,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+59,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+59,6,adult,"brb, need to finish homework.",non_grooming,none
+59,7,adult,my internet is lagging again omg.,non_grooming,none
+59,8,adult,"brb, need to finish homework.",non_grooming,none
+59,9,adult,my internet is lagging again omg.,non_grooming,none
+59,10,adult,"brb, need to finish homework.",non_grooming,none
+59,11,adult,"gotta go, see you tomorrow.",non_grooming,none
+60,0,adult,nice shot! that was crazy.,non_grooming,none
+60,1,child,"brb, need to finish homework.",non_grooming,none
+60,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+60,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+60,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+60,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+60,6,adult,anyone wanna join my team?,non_grooming,none
+60,7,child,my internet is lagging again omg.,non_grooming,none
+60,8,adult,my internet is lagging again omg.,non_grooming,none
+60,9,adult,nice shot! that was crazy.,non_grooming,none
+60,10,child,my internet is lagging again omg.,non_grooming,none
+61,0,adult,my internet is lagging again omg.,non_grooming,none
+61,1,adult,nice shot! that was crazy.,non_grooming,none
+61,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+61,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+61,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+61,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+62,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+62,1,child,nice shot! that was crazy.,non_grooming,none
+62,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+62,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+62,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+62,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+62,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+62,7,adult,my internet is lagging again omg.,non_grooming,none
+62,8,child,"gotta go, see you tomorrow.",non_grooming,none
+62,9,adult,my internet is lagging again omg.,non_grooming,none
+62,10,adult,anyone wanna join my team?,non_grooming,none
+63,0,adult,nice shot! that was crazy.,non_grooming,none
+63,1,adult,anyone wanna join my team?,non_grooming,none
+63,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+63,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+63,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+63,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+63,6,adult,"brb, need to finish homework.",non_grooming,none
+64,0,child,"brb, need to finish homework.",non_grooming,none
+64,1,adult,"brb, need to finish homework.",non_grooming,none
+64,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+64,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+64,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+64,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+64,6,adult,my internet is lagging again omg.,non_grooming,none
+64,7,child,my internet is lagging again omg.,non_grooming,none
+64,8,child,nice shot! that was crazy.,non_grooming,none
+64,9,child,anyone wanna join my team?,non_grooming,none
+64,10,child,"brb, need to finish homework.",non_grooming,none
+65,0,child,my internet is lagging again omg.,non_grooming,none
+65,1,child,"gotta go, see you tomorrow.",non_grooming,none
+65,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+65,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+65,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+65,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+65,6,child,anyone wanna join my team?,non_grooming,none
+65,7,child,nice shot! that was crazy.,non_grooming,none
+66,0,child,anyone wanna join my team?,non_grooming,none
+66,1,adult,"brb, need to finish homework.",non_grooming,none
+66,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+66,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+66,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+66,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+66,6,child,"gotta go, see you tomorrow.",non_grooming,none
+66,7,child,"brb, need to finish homework.",non_grooming,none
+66,8,child,my internet is lagging again omg.,non_grooming,none
+66,9,child,"gotta go, see you tomorrow.",non_grooming,none
+66,10,adult,anyone wanna join my team?,non_grooming,none
+66,11,child,"brb, need to finish homework.",non_grooming,none
+67,0,child,"gotta go, see you tomorrow.",non_grooming,none
+67,1,child,anyone wanna join my team?,non_grooming,none
+67,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+67,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+67,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+67,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+68,0,adult,my internet is lagging again omg.,non_grooming,none
+68,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+68,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+68,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+68,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+68,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+68,6,child,"gotta go, see you tomorrow.",non_grooming,none
+68,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+68,8,adult,my internet is lagging again omg.,non_grooming,none
+68,9,adult,anyone wanna join my team?,non_grooming,none
+68,10,child,nice shot! that was crazy.,non_grooming,none
+68,11,adult,"brb, need to finish homework.",non_grooming,none
+69,0,adult,anyone wanna join my team?,non_grooming,none
+69,1,child,nice shot! that was crazy.,non_grooming,none
+69,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+69,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+69,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+69,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+69,6,child,nice shot! that was crazy.,non_grooming,none
+69,7,adult,my internet is lagging again omg.,non_grooming,none
+69,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+70,0,child,anyone wanna join my team?,non_grooming,none
+70,1,adult,anyone wanna join my team?,non_grooming,none
+70,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+70,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+70,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+70,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+70,6,child,nice shot! that was crazy.,non_grooming,none
+70,7,child,nice shot! that was crazy.,non_grooming,none
+70,8,child,"gotta go, see you tomorrow.",non_grooming,none
+70,9,adult,"brb, need to finish homework.",non_grooming,none
+70,10,child,"brb, need to finish homework.",non_grooming,none
+70,11,child,"brb, need to finish homework.",non_grooming,none
+71,0,child,nice shot! that was crazy.,non_grooming,none
+71,1,adult,"brb, need to finish homework.",non_grooming,none
+71,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+71,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+71,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+71,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+71,6,child,"brb, need to finish homework.",non_grooming,none
+71,7,adult,anyone wanna join my team?,non_grooming,none
+71,8,adult,"brb, need to finish homework.",non_grooming,none
+71,9,child,nice shot! that was crazy.,non_grooming,none
+71,10,child,my internet is lagging again omg.,non_grooming,none
+71,11,child,"gotta go, see you tomorrow.",non_grooming,none
+72,0,child,my internet is lagging again omg.,non_grooming,none
+72,1,adult,my internet is lagging again omg.,non_grooming,none
+72,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+72,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+72,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+72,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+72,6,child,my internet is lagging again omg.,non_grooming,none
+72,7,adult,"brb, need to finish homework.",non_grooming,none
+73,0,adult,nice shot! that was crazy.,non_grooming,none
+73,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+73,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+73,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+73,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+73,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+73,6,child,"gotta go, see you tomorrow.",non_grooming,none
+73,7,adult,nice shot! that was crazy.,non_grooming,none
+73,8,adult,"brb, need to finish homework.",non_grooming,none
+74,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+74,1,child,nice shot! that was crazy.,non_grooming,none
+74,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+74,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+74,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+74,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+74,6,adult,nice shot! that was crazy.,non_grooming,none
+74,7,child,anyone wanna join my team?,non_grooming,none
+74,8,adult,anyone wanna join my team?,non_grooming,none
+74,9,child,my internet is lagging again omg.,non_grooming,none
+74,10,adult,"gotta go, see you tomorrow.",non_grooming,none
+75,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+75,1,adult,nice shot! that was crazy.,non_grooming,none
+75,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+75,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+75,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+75,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+75,6,child,anyone wanna join my team?,non_grooming,none
+75,7,child,nice shot! that was crazy.,non_grooming,none
+75,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+75,9,adult,anyone wanna join my team?,non_grooming,none
+75,10,child,anyone wanna join my team?,non_grooming,none
+75,11,adult,nice shot! that was crazy.,non_grooming,none
+76,0,child,my internet is lagging again omg.,non_grooming,none
+76,1,child,anyone wanna join my team?,non_grooming,none
+76,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+76,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+76,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+76,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+76,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+76,7,adult,anyone wanna join my team?,non_grooming,none
+76,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+77,0,adult,nice shot! that was crazy.,non_grooming,none
+77,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+77,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+77,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+77,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+77,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+77,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+77,7,adult,nice shot! that was crazy.,non_grooming,none
+77,8,adult,nice shot! that was crazy.,non_grooming,none
+77,9,adult,"gotta go, see you tomorrow.",non_grooming,none
+77,10,child,my internet is lagging again omg.,non_grooming,none
+77,11,child,nice shot! that was crazy.,non_grooming,none
+78,0,adult,"brb, need to finish homework.",non_grooming,none
+78,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+78,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+78,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+78,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+78,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+78,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+78,7,adult,my internet is lagging again omg.,non_grooming,none
+78,8,child,"brb, need to finish homework.",non_grooming,none
+78,9,adult,"brb, need to finish homework.",non_grooming,none
+78,10,adult,anyone wanna join my team?,non_grooming,none
+79,0,child,anyone wanna join my team?,non_grooming,none
+79,1,adult,nice shot! that was crazy.,non_grooming,none
+79,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+79,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+79,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+79,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+79,6,adult,"brb, need to finish homework.",non_grooming,none
+79,7,adult,my internet is lagging again omg.,non_grooming,none
+79,8,adult,nice shot! that was crazy.,non_grooming,none
+79,9,child,"brb, need to finish homework.",non_grooming,none
+80,0,child,nice shot! that was crazy.,non_grooming,none
+80,1,adult,"brb, need to finish homework.",non_grooming,none
+80,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+80,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+80,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+80,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+80,6,adult,anyone wanna join my team?,non_grooming,none
+80,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+80,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+80,9,child,"brb, need to finish homework.",non_grooming,none
+80,10,adult,nice shot! that was crazy.,non_grooming,none
+81,0,child,"gotta go, see you tomorrow.",non_grooming,none
+81,1,adult,nice shot! that was crazy.,non_grooming,none
+81,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+81,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+81,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+81,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+81,6,child,nice shot! that was crazy.,non_grooming,none
+82,0,child,anyone wanna join my team?,non_grooming,none
+82,1,child,anyone wanna join my team?,non_grooming,none
+82,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+82,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+82,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+82,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+82,6,adult,nice shot! that was crazy.,non_grooming,none
+82,7,child,nice shot! that was crazy.,non_grooming,none
+82,8,child,nice shot! that was crazy.,non_grooming,none
+82,9,child,my internet is lagging again omg.,non_grooming,none
+82,10,adult,anyone wanna join my team?,non_grooming,none
+83,0,child,nice shot! that was crazy.,non_grooming,none
+83,1,child,nice shot! that was crazy.,non_grooming,none
+83,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+83,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+83,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+83,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+83,6,child,anyone wanna join my team?,non_grooming,none
+83,7,adult,my internet is lagging again omg.,non_grooming,none
+83,8,child,"gotta go, see you tomorrow.",non_grooming,none
+83,9,adult,"brb, need to finish homework.",non_grooming,none
+83,10,adult,"brb, need to finish homework.",non_grooming,none
+83,11,child,my internet is lagging again omg.,non_grooming,none
+84,0,adult,"brb, need to finish homework.",non_grooming,none
+84,1,adult,anyone wanna join my team?,non_grooming,none
+84,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+84,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+84,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+84,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+84,6,child,nice shot! that was crazy.,non_grooming,none
+84,7,child,nice shot! that was crazy.,non_grooming,none
+84,8,child,"gotta go, see you tomorrow.",non_grooming,none
+84,9,child,nice shot! that was crazy.,non_grooming,none
+84,10,child,nice shot! that was crazy.,non_grooming,none
+85,0,adult,"brb, need to finish homework.",non_grooming,none
+85,1,adult,nice shot! that was crazy.,non_grooming,none
+85,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+85,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+85,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+85,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+85,6,adult,my internet is lagging again omg.,non_grooming,none
+85,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+85,8,child,nice shot! that was crazy.,non_grooming,none
+85,9,adult,"gotta go, see you tomorrow.",non_grooming,none
+85,10,adult,"brb, need to finish homework.",non_grooming,none
+86,0,adult,"brb, need to finish homework.",non_grooming,none
+86,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+86,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+86,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+86,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+86,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+86,6,child,anyone wanna join my team?,non_grooming,none
+86,7,child,"gotta go, see you tomorrow.",non_grooming,none
+86,8,adult,anyone wanna join my team?,non_grooming,none
+86,9,adult,anyone wanna join my team?,non_grooming,none
+86,10,adult,anyone wanna join my team?,non_grooming,none
+86,11,child,"gotta go, see you tomorrow.",non_grooming,none
+87,0,child,nice shot! that was crazy.,non_grooming,none
+87,1,child,anyone wanna join my team?,non_grooming,none
+87,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+87,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+87,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+87,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+87,6,child,"brb, need to finish homework.",non_grooming,none
+88,0,child,nice shot! that was crazy.,non_grooming,none
+88,1,adult,anyone wanna join my team?,non_grooming,none
+88,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+88,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+88,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+88,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+88,6,adult,my internet is lagging again omg.,non_grooming,none
+88,7,child,nice shot! that was crazy.,non_grooming,none
+88,8,adult,my internet is lagging again omg.,non_grooming,none
+88,9,child,"gotta go, see you tomorrow.",non_grooming,none
+88,10,adult,nice shot! that was crazy.,non_grooming,none
+89,0,child,"brb, need to finish homework.",non_grooming,none
+89,1,child,nice shot! that was crazy.,non_grooming,none
+89,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+89,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+89,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+89,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+89,6,adult,my internet is lagging again omg.,non_grooming,none
+89,7,child,nice shot! that was crazy.,non_grooming,none
+89,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+89,9,child,"gotta go, see you tomorrow.",non_grooming,none
+90,0,child,my internet is lagging again omg.,non_grooming,none
+90,1,child,"gotta go, see you tomorrow.",non_grooming,none
+90,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+90,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+90,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+90,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+90,6,adult,anyone wanna join my team?,non_grooming,none
+90,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+90,8,adult,my internet is lagging again omg.,non_grooming,none
+91,0,child,anyone wanna join my team?,non_grooming,none
+91,1,adult,nice shot! that was crazy.,non_grooming,none
+91,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+91,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+91,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+91,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+92,0,adult,"brb, need to finish homework.",non_grooming,none
+92,1,adult,nice shot! that was crazy.,non_grooming,none
+92,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+92,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+92,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+92,5,adult,"let’s talk somewhere more private, not in this chat.",grooming,escalation
+92,6,adult,anyone wanna join my team?,non_grooming,none
+92,7,child,"brb, need to finish homework.",non_grooming,none
+92,8,adult,my internet is lagging again omg.,non_grooming,none
+93,0,adult,"brb, need to finish homework.",non_grooming,none
+93,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+93,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+93,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+93,4,adult,"we should keep this just between us, it’s our secret.",grooming,isolation
+93,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+93,6,child,anyone wanna join my team?,non_grooming,none
+93,7,child,my internet is lagging again omg.,non_grooming,none
+94,0,child,nice shot! that was crazy.,non_grooming,none
+94,1,child,"gotta go, see you tomorrow.",non_grooming,none
+94,2,adult,gg! want to play again tomorrow?,grooming,friendship_forming
+94,3,adult,"you can tell me anything, I’m not like other people.",grooming,trust_building
+94,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+94,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+94,6,child,my internet is lagging again omg.,non_grooming,none
+94,7,adult,nice shot! that was crazy.,non_grooming,none
+94,8,adult,my internet is lagging again omg.,non_grooming,none
+94,9,adult,"brb, need to finish homework.",non_grooming,none
+95,0,child,"gotta go, see you tomorrow.",non_grooming,none
+95,1,child,"gotta go, see you tomorrow.",non_grooming,none
+95,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+95,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+95,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+95,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+96,0,child,nice shot! that was crazy.,non_grooming,none
+96,1,adult,"brb, need to finish homework.",non_grooming,none
+96,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+96,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+96,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+96,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+96,6,child,my internet is lagging again omg.,non_grooming,none
+96,7,child,anyone wanna join my team?,non_grooming,none
+96,8,child,"gotta go, see you tomorrow.",non_grooming,none
+96,9,adult,nice shot! that was crazy.,non_grooming,none
+96,10,child,my internet is lagging again omg.,non_grooming,none
+96,11,child,"gotta go, see you tomorrow.",non_grooming,none
+97,0,adult,nice shot! that was crazy.,non_grooming,none
+97,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+97,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+97,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+97,4,adult,"don’t tell your parents about our chats, they wouldn’t understand.",grooming,isolation
+97,5,adult,can you send me a pic just for me? I won’t show anyone.,grooming,escalation
+97,6,adult,my internet is lagging again omg.,non_grooming,none
+97,7,child,"gotta go, see you tomorrow.",non_grooming,none
+98,0,adult,"brb, need to finish homework.",non_grooming,none
+98,1,child,anyone wanna join my team?,non_grooming,none
+98,2,adult,"hey, you seem cool, what games do you usually play?",grooming,friendship_forming
+98,3,adult,"you seem different from other players, like I actually get you.",grooming,trust_building
+98,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+98,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+98,6,child,nice shot! that was crazy.,non_grooming,none
+98,7,child,"brb, need to finish homework.",non_grooming,none
+98,8,child,nice shot! that was crazy.,non_grooming,none
+98,9,child,anyone wanna join my team?,non_grooming,none
+98,10,child,my internet is lagging again omg.,non_grooming,none
+99,0,child,nice shot! that was crazy.,non_grooming,none
+99,1,child,"gotta go, see you tomorrow.",non_grooming,none
+99,2,adult,"you’re really good at this, how long have you been playing?",grooming,friendship_forming
+99,3,adult,"don’t worry, I always have your back.",grooming,trust_building
+99,4,adult,"you shouldn’t listen to your friends, they’re just jealous.",grooming,isolation
+99,5,adult,"I feel really close to you, do you feel the same way about me?",grooming,escalation
+99,6,adult,"brb, need to finish homework.",non_grooming,none
+99,7,adult,my internet is lagging again omg.,non_grooming,none
+99,8,adult,nice shot! that was crazy.,non_grooming,none
+99,9,child,my internet is lagging again omg.,non_grooming,none
+100,0,adult,anyone wanna join my team?,non_grooming,none
+100,1,child,"brb, need to finish homework.",non_grooming,none
+100,2,adult,my internet is lagging again omg.,non_grooming,none
+100,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+100,4,child,nice shot! that was crazy.,non_grooming,none
+100,5,adult,anyone wanna join my team?,non_grooming,none
+100,6,adult,"brb, need to finish homework.",non_grooming,none
+100,7,child,"gotta go, see you tomorrow.",non_grooming,none
+100,8,child,nice shot! that was crazy.,non_grooming,none
+100,9,child,anyone wanna join my team?,non_grooming,none
+100,10,child,nice shot! that was crazy.,non_grooming,none
+100,11,adult,nice shot! that was crazy.,non_grooming,none
+101,0,adult,my internet is lagging again omg.,non_grooming,none
+101,1,adult,anyone wanna join my team?,non_grooming,none
+101,2,adult,nice shot! that was crazy.,non_grooming,none
+101,3,child,my internet is lagging again omg.,non_grooming,none
+101,4,child,"brb, need to finish homework.",non_grooming,none
+101,5,child,"gotta go, see you tomorrow.",non_grooming,none
+101,6,adult,"brb, need to finish homework.",non_grooming,none
+101,7,child,anyone wanna join my team?,non_grooming,none
+101,8,child,anyone wanna join my team?,non_grooming,none
+101,9,child,"brb, need to finish homework.",non_grooming,none
+101,10,child,"gotta go, see you tomorrow.",non_grooming,none
+102,0,adult,my internet is lagging again omg.,non_grooming,none
+102,1,child,nice shot! that was crazy.,non_grooming,none
+102,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+102,3,child,"gotta go, see you tomorrow.",non_grooming,none
+102,4,adult,nice shot! that was crazy.,non_grooming,none
+102,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+102,6,child,nice shot! that was crazy.,non_grooming,none
+102,7,adult,anyone wanna join my team?,non_grooming,none
+103,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+103,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+103,2,adult,"brb, need to finish homework.",non_grooming,none
+103,3,child,my internet is lagging again omg.,non_grooming,none
+103,4,adult,"brb, need to finish homework.",non_grooming,none
+103,5,child,"brb, need to finish homework.",non_grooming,none
+103,6,child,my internet is lagging again omg.,non_grooming,none
+103,7,child,"gotta go, see you tomorrow.",non_grooming,none
+103,8,child,"brb, need to finish homework.",non_grooming,none
+104,0,child,anyone wanna join my team?,non_grooming,none
+104,1,child,my internet is lagging again omg.,non_grooming,none
+104,2,child,"brb, need to finish homework.",non_grooming,none
+104,3,child,anyone wanna join my team?,non_grooming,none
+104,4,adult,"brb, need to finish homework.",non_grooming,none
+104,5,adult,my internet is lagging again omg.,non_grooming,none
+104,6,child,anyone wanna join my team?,non_grooming,none
+104,7,adult,my internet is lagging again omg.,non_grooming,none
+104,8,adult,"brb, need to finish homework.",non_grooming,none
+104,9,child,"brb, need to finish homework.",non_grooming,none
+104,10,adult,nice shot! that was crazy.,non_grooming,none
+105,0,child,nice shot! that was crazy.,non_grooming,none
+105,1,adult,"brb, need to finish homework.",non_grooming,none
+105,2,adult,my internet is lagging again omg.,non_grooming,none
+105,3,adult,nice shot! that was crazy.,non_grooming,none
+105,4,child,"gotta go, see you tomorrow.",non_grooming,none
+105,5,adult,my internet is lagging again omg.,non_grooming,none
+105,6,child,"brb, need to finish homework.",non_grooming,none
+105,7,child,my internet is lagging again omg.,non_grooming,none
+105,8,child,nice shot! that was crazy.,non_grooming,none
+105,9,adult,my internet is lagging again omg.,non_grooming,none
+105,10,adult,anyone wanna join my team?,non_grooming,none
+106,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+106,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+106,2,adult,"brb, need to finish homework.",non_grooming,none
+106,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+106,4,adult,"brb, need to finish homework.",non_grooming,none
+106,5,adult,anyone wanna join my team?,non_grooming,none
+107,0,adult,"brb, need to finish homework.",non_grooming,none
+107,1,adult,"brb, need to finish homework.",non_grooming,none
+107,2,child,"gotta go, see you tomorrow.",non_grooming,none
+107,3,child,nice shot! that was crazy.,non_grooming,none
+107,4,child,"brb, need to finish homework.",non_grooming,none
+107,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+107,6,child,"brb, need to finish homework.",non_grooming,none
+107,7,child,my internet is lagging again omg.,non_grooming,none
+107,8,adult,nice shot! that was crazy.,non_grooming,none
+107,9,adult,nice shot! that was crazy.,non_grooming,none
+107,10,child,"gotta go, see you tomorrow.",non_grooming,none
+107,11,child,"brb, need to finish homework.",non_grooming,none
+108,0,child,"brb, need to finish homework.",non_grooming,none
+108,1,adult,anyone wanna join my team?,non_grooming,none
+108,2,child,nice shot! that was crazy.,non_grooming,none
+108,3,child,"brb, need to finish homework.",non_grooming,none
+108,4,adult,my internet is lagging again omg.,non_grooming,none
+108,5,child,"brb, need to finish homework.",non_grooming,none
+108,6,child,my internet is lagging again omg.,non_grooming,none
+108,7,child,nice shot! that was crazy.,non_grooming,none
+108,8,child,"gotta go, see you tomorrow.",non_grooming,none
+108,9,child,"gotta go, see you tomorrow.",non_grooming,none
+108,10,child,anyone wanna join my team?,non_grooming,none
+109,0,child,my internet is lagging again omg.,non_grooming,none
+109,1,adult,anyone wanna join my team?,non_grooming,none
+109,2,child,"brb, need to finish homework.",non_grooming,none
+109,3,adult,"brb, need to finish homework.",non_grooming,none
+109,4,adult,my internet is lagging again omg.,non_grooming,none
+109,5,child,my internet is lagging again omg.,non_grooming,none
+109,6,adult,my internet is lagging again omg.,non_grooming,none
+109,7,child,anyone wanna join my team?,non_grooming,none
+109,8,child,nice shot! that was crazy.,non_grooming,none
+109,9,adult,nice shot! that was crazy.,non_grooming,none
+110,0,adult,nice shot! that was crazy.,non_grooming,none
+110,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+110,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+110,3,child,"brb, need to finish homework.",non_grooming,none
+110,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+110,5,child,my internet is lagging again omg.,non_grooming,none
+110,6,adult,nice shot! that was crazy.,non_grooming,none
+110,7,adult,nice shot! that was crazy.,non_grooming,none
+110,8,adult,my internet is lagging again omg.,non_grooming,none
+110,9,adult,"brb, need to finish homework.",non_grooming,none
+110,10,child,my internet is lagging again omg.,non_grooming,none
+111,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+111,1,child,my internet is lagging again omg.,non_grooming,none
+111,2,child,my internet is lagging again omg.,non_grooming,none
+111,3,adult,anyone wanna join my team?,non_grooming,none
+111,4,adult,"brb, need to finish homework.",non_grooming,none
+111,5,adult,anyone wanna join my team?,non_grooming,none
+111,6,child,nice shot! that was crazy.,non_grooming,none
+111,7,child,anyone wanna join my team?,non_grooming,none
+111,8,adult,nice shot! that was crazy.,non_grooming,none
+111,9,adult,anyone wanna join my team?,non_grooming,none
+111,10,child,"gotta go, see you tomorrow.",non_grooming,none
+112,0,adult,"brb, need to finish homework.",non_grooming,none
+112,1,adult,nice shot! that was crazy.,non_grooming,none
+112,2,adult,"brb, need to finish homework.",non_grooming,none
+112,3,child,anyone wanna join my team?,non_grooming,none
+112,4,child,nice shot! that was crazy.,non_grooming,none
+112,5,adult,"brb, need to finish homework.",non_grooming,none
+113,0,child,my internet is lagging again omg.,non_grooming,none
+113,1,child,my internet is lagging again omg.,non_grooming,none
+113,2,adult,nice shot! that was crazy.,non_grooming,none
+113,3,child,my internet is lagging again omg.,non_grooming,none
+113,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+113,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+113,6,adult,anyone wanna join my team?,non_grooming,none
+113,7,adult,"brb, need to finish homework.",non_grooming,none
+113,8,adult,"brb, need to finish homework.",non_grooming,none
+113,9,adult,"brb, need to finish homework.",non_grooming,none
+114,0,child,"brb, need to finish homework.",non_grooming,none
+114,1,child,nice shot! that was crazy.,non_grooming,none
+114,2,child,"brb, need to finish homework.",non_grooming,none
+114,3,child,nice shot! that was crazy.,non_grooming,none
+114,4,child,nice shot! that was crazy.,non_grooming,none
+114,5,child,nice shot! that was crazy.,non_grooming,none
+115,0,adult,"brb, need to finish homework.",non_grooming,none
+115,1,adult,nice shot! that was crazy.,non_grooming,none
+115,2,child,anyone wanna join my team?,non_grooming,none
+115,3,child,my internet is lagging again omg.,non_grooming,none
+115,4,adult,"brb, need to finish homework.",non_grooming,none
+115,5,adult,anyone wanna join my team?,non_grooming,none
+115,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+115,7,adult,anyone wanna join my team?,non_grooming,none
+116,0,child,nice shot! that was crazy.,non_grooming,none
+116,1,adult,nice shot! that was crazy.,non_grooming,none
+116,2,child,nice shot! that was crazy.,non_grooming,none
+116,3,adult,nice shot! that was crazy.,non_grooming,none
+116,4,adult,anyone wanna join my team?,non_grooming,none
+116,5,adult,"brb, need to finish homework.",non_grooming,none
+116,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+116,7,child,"brb, need to finish homework.",non_grooming,none
+116,8,child,anyone wanna join my team?,non_grooming,none
+116,9,adult,nice shot! that was crazy.,non_grooming,none
+116,10,child,"gotta go, see you tomorrow.",non_grooming,none
+116,11,adult,my internet is lagging again omg.,non_grooming,none
+117,0,adult,anyone wanna join my team?,non_grooming,none
+117,1,child,anyone wanna join my team?,non_grooming,none
+117,2,adult,my internet is lagging again omg.,non_grooming,none
+117,3,adult,"brb, need to finish homework.",non_grooming,none
+117,4,child,"brb, need to finish homework.",non_grooming,none
+117,5,adult,anyone wanna join my team?,non_grooming,none
+117,6,child,"brb, need to finish homework.",non_grooming,none
+118,0,child,anyone wanna join my team?,non_grooming,none
+118,1,child,my internet is lagging again omg.,non_grooming,none
+118,2,child,anyone wanna join my team?,non_grooming,none
+118,3,adult,nice shot! that was crazy.,non_grooming,none
+118,4,adult,anyone wanna join my team?,non_grooming,none
+118,5,child,"brb, need to finish homework.",non_grooming,none
+119,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+119,1,adult,anyone wanna join my team?,non_grooming,none
+119,2,child,"gotta go, see you tomorrow.",non_grooming,none
+119,3,adult,anyone wanna join my team?,non_grooming,none
+119,4,child,anyone wanna join my team?,non_grooming,none
+119,5,adult,anyone wanna join my team?,non_grooming,none
+119,6,child,my internet is lagging again omg.,non_grooming,none
+119,7,child,nice shot! that was crazy.,non_grooming,none
+119,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+120,0,child,my internet is lagging again omg.,non_grooming,none
+120,1,child,anyone wanna join my team?,non_grooming,none
+120,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+120,3,child,nice shot! that was crazy.,non_grooming,none
+120,4,adult,nice shot! that was crazy.,non_grooming,none
+120,5,child,my internet is lagging again omg.,non_grooming,none
+120,6,adult,"brb, need to finish homework.",non_grooming,none
+120,7,adult,my internet is lagging again omg.,non_grooming,none
+121,0,child,nice shot! that was crazy.,non_grooming,none
+121,1,child,my internet is lagging again omg.,non_grooming,none
+121,2,adult,anyone wanna join my team?,non_grooming,none
+121,3,child,my internet is lagging again omg.,non_grooming,none
+121,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+121,5,child,my internet is lagging again omg.,non_grooming,none
+121,6,child,nice shot! that was crazy.,non_grooming,none
+121,7,child,nice shot! that was crazy.,non_grooming,none
+121,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+122,0,child,"gotta go, see you tomorrow.",non_grooming,none
+122,1,child,"gotta go, see you tomorrow.",non_grooming,none
+122,2,child,my internet is lagging again omg.,non_grooming,none
+122,3,child,"gotta go, see you tomorrow.",non_grooming,none
+122,4,child,"gotta go, see you tomorrow.",non_grooming,none
+122,5,adult,"brb, need to finish homework.",non_grooming,none
+122,6,child,nice shot! that was crazy.,non_grooming,none
+122,7,adult,"brb, need to finish homework.",non_grooming,none
+122,8,child,nice shot! that was crazy.,non_grooming,none
+123,0,child,my internet is lagging again omg.,non_grooming,none
+123,1,child,nice shot! that was crazy.,non_grooming,none
+123,2,adult,my internet is lagging again omg.,non_grooming,none
+123,3,child,nice shot! that was crazy.,non_grooming,none
+123,4,adult,"brb, need to finish homework.",non_grooming,none
+123,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+123,6,adult,my internet is lagging again omg.,non_grooming,none
+123,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+123,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+123,9,child,my internet is lagging again omg.,non_grooming,none
+124,0,child,nice shot! that was crazy.,non_grooming,none
+124,1,adult,"brb, need to finish homework.",non_grooming,none
+124,2,adult,nice shot! that was crazy.,non_grooming,none
+124,3,child,nice shot! that was crazy.,non_grooming,none
+124,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+124,5,adult,nice shot! that was crazy.,non_grooming,none
+124,6,child,nice shot! that was crazy.,non_grooming,none
+125,0,adult,"brb, need to finish homework.",non_grooming,none
+125,1,child,"gotta go, see you tomorrow.",non_grooming,none
+125,2,adult,"brb, need to finish homework.",non_grooming,none
+125,3,child,anyone wanna join my team?,non_grooming,none
+125,4,child,my internet is lagging again omg.,non_grooming,none
+125,5,child,"gotta go, see you tomorrow.",non_grooming,none
+125,6,child,anyone wanna join my team?,non_grooming,none
+125,7,child,"brb, need to finish homework.",non_grooming,none
+125,8,adult,anyone wanna join my team?,non_grooming,none
+125,9,child,my internet is lagging again omg.,non_grooming,none
+125,10,adult,"brb, need to finish homework.",non_grooming,none
+125,11,child,my internet is lagging again omg.,non_grooming,none
+126,0,adult,"brb, need to finish homework.",non_grooming,none
+126,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+126,2,adult,nice shot! that was crazy.,non_grooming,none
+126,3,child,anyone wanna join my team?,non_grooming,none
+126,4,child,anyone wanna join my team?,non_grooming,none
+126,5,child,nice shot! that was crazy.,non_grooming,none
+126,6,child,"gotta go, see you tomorrow.",non_grooming,none
+126,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+126,8,adult,nice shot! that was crazy.,non_grooming,none
+127,0,adult,nice shot! that was crazy.,non_grooming,none
+127,1,child,my internet is lagging again omg.,non_grooming,none
+127,2,adult,nice shot! that was crazy.,non_grooming,none
+127,3,child,anyone wanna join my team?,non_grooming,none
+127,4,child,"gotta go, see you tomorrow.",non_grooming,none
+127,5,child,nice shot! that was crazy.,non_grooming,none
+127,6,child,my internet is lagging again omg.,non_grooming,none
+127,7,adult,my internet is lagging again omg.,non_grooming,none
+127,8,child,anyone wanna join my team?,non_grooming,none
+127,9,child,"gotta go, see you tomorrow.",non_grooming,none
+127,10,child,anyone wanna join my team?,non_grooming,none
+128,0,adult,anyone wanna join my team?,non_grooming,none
+128,1,adult,nice shot! that was crazy.,non_grooming,none
+128,2,child,my internet is lagging again omg.,non_grooming,none
+128,3,child,my internet is lagging again omg.,non_grooming,none
+128,4,child,my internet is lagging again omg.,non_grooming,none
+128,5,adult,my internet is lagging again omg.,non_grooming,none
+128,6,adult,anyone wanna join my team?,non_grooming,none
+128,7,adult,nice shot! that was crazy.,non_grooming,none
+128,8,adult,anyone wanna join my team?,non_grooming,none
+128,9,adult,anyone wanna join my team?,non_grooming,none
+128,10,adult,nice shot! that was crazy.,non_grooming,none
+129,0,adult,"brb, need to finish homework.",non_grooming,none
+129,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+129,2,adult,nice shot! that was crazy.,non_grooming,none
+129,3,adult,my internet is lagging again omg.,non_grooming,none
+129,4,child,my internet is lagging again omg.,non_grooming,none
+129,5,child,nice shot! that was crazy.,non_grooming,none
+129,6,adult,nice shot! that was crazy.,non_grooming,none
+129,7,adult,my internet is lagging again omg.,non_grooming,none
+129,8,adult,anyone wanna join my team?,non_grooming,none
+129,9,adult,my internet is lagging again omg.,non_grooming,none
+129,10,adult,my internet is lagging again omg.,non_grooming,none
+129,11,child,nice shot! that was crazy.,non_grooming,none
+130,0,adult,my internet is lagging again omg.,non_grooming,none
+130,1,child,my internet is lagging again omg.,non_grooming,none
+130,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+130,3,child,anyone wanna join my team?,non_grooming,none
+130,4,child,anyone wanna join my team?,non_grooming,none
+130,5,child,"gotta go, see you tomorrow.",non_grooming,none
+130,6,adult,"brb, need to finish homework.",non_grooming,none
+130,7,adult,my internet is lagging again omg.,non_grooming,none
+130,8,adult,my internet is lagging again omg.,non_grooming,none
+131,0,adult,my internet is lagging again omg.,non_grooming,none
+131,1,child,anyone wanna join my team?,non_grooming,none
+131,2,child,"brb, need to finish homework.",non_grooming,none
+131,3,child,my internet is lagging again omg.,non_grooming,none
+131,4,adult,nice shot! that was crazy.,non_grooming,none
+131,5,child,"brb, need to finish homework.",non_grooming,none
+131,6,child,"brb, need to finish homework.",non_grooming,none
+131,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+132,0,adult,anyone wanna join my team?,non_grooming,none
+132,1,adult,anyone wanna join my team?,non_grooming,none
+132,2,child,anyone wanna join my team?,non_grooming,none
+132,3,adult,"brb, need to finish homework.",non_grooming,none
+132,4,child,anyone wanna join my team?,non_grooming,none
+132,5,adult,"brb, need to finish homework.",non_grooming,none
+132,6,adult,my internet is lagging again omg.,non_grooming,none
+132,7,adult,my internet is lagging again omg.,non_grooming,none
+133,0,child,"gotta go, see you tomorrow.",non_grooming,none
+133,1,adult,nice shot! that was crazy.,non_grooming,none
+133,2,adult,my internet is lagging again omg.,non_grooming,none
+133,3,adult,nice shot! that was crazy.,non_grooming,none
+133,4,adult,nice shot! that was crazy.,non_grooming,none
+133,5,adult,anyone wanna join my team?,non_grooming,none
+133,6,adult,"brb, need to finish homework.",non_grooming,none
+133,7,child,anyone wanna join my team?,non_grooming,none
+133,8,child,my internet is lagging again omg.,non_grooming,none
+133,9,child,"gotta go, see you tomorrow.",non_grooming,none
+133,10,adult,anyone wanna join my team?,non_grooming,none
+133,11,child,"gotta go, see you tomorrow.",non_grooming,none
+134,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+134,1,adult,nice shot! that was crazy.,non_grooming,none
+134,2,adult,anyone wanna join my team?,non_grooming,none
+134,3,child,"brb, need to finish homework.",non_grooming,none
+134,4,child,my internet is lagging again omg.,non_grooming,none
+134,5,child,"brb, need to finish homework.",non_grooming,none
+134,6,adult,nice shot! that was crazy.,non_grooming,none
+134,7,child,anyone wanna join my team?,non_grooming,none
+134,8,adult,my internet is lagging again omg.,non_grooming,none
+135,0,adult,"brb, need to finish homework.",non_grooming,none
+135,1,adult,anyone wanna join my team?,non_grooming,none
+135,2,adult,nice shot! that was crazy.,non_grooming,none
+135,3,adult,nice shot! that was crazy.,non_grooming,none
+135,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+135,5,child,"gotta go, see you tomorrow.",non_grooming,none
+135,6,child,"brb, need to finish homework.",non_grooming,none
+135,7,adult,"brb, need to finish homework.",non_grooming,none
+135,8,adult,anyone wanna join my team?,non_grooming,none
+135,9,child,nice shot! that was crazy.,non_grooming,none
+136,0,child,"gotta go, see you tomorrow.",non_grooming,none
+136,1,adult,anyone wanna join my team?,non_grooming,none
+136,2,adult,nice shot! that was crazy.,non_grooming,none
+136,3,child,"brb, need to finish homework.",non_grooming,none
+136,4,adult,nice shot! that was crazy.,non_grooming,none
+136,5,child,my internet is lagging again omg.,non_grooming,none
+136,6,child,my internet is lagging again omg.,non_grooming,none
+136,7,child,my internet is lagging again omg.,non_grooming,none
+136,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+136,9,adult,anyone wanna join my team?,non_grooming,none
+136,10,adult,my internet is lagging again omg.,non_grooming,none
+137,0,child,my internet is lagging again omg.,non_grooming,none
+137,1,adult,"brb, need to finish homework.",non_grooming,none
+137,2,child,"brb, need to finish homework.",non_grooming,none
+137,3,adult,my internet is lagging again omg.,non_grooming,none
+137,4,child,"gotta go, see you tomorrow.",non_grooming,none
+137,5,child,anyone wanna join my team?,non_grooming,none
+137,6,adult,anyone wanna join my team?,non_grooming,none
+137,7,adult,nice shot! that was crazy.,non_grooming,none
+138,0,child,anyone wanna join my team?,non_grooming,none
+138,1,child,my internet is lagging again omg.,non_grooming,none
+138,2,child,anyone wanna join my team?,non_grooming,none
+138,3,child,"brb, need to finish homework.",non_grooming,none
+138,4,child,"gotta go, see you tomorrow.",non_grooming,none
+138,5,child,anyone wanna join my team?,non_grooming,none
+138,6,child,nice shot! that was crazy.,non_grooming,none
+138,7,child,nice shot! that was crazy.,non_grooming,none
+138,8,adult,nice shot! that was crazy.,non_grooming,none
+138,9,adult,"brb, need to finish homework.",non_grooming,none
+139,0,adult,"brb, need to finish homework.",non_grooming,none
+139,1,adult,my internet is lagging again omg.,non_grooming,none
+139,2,adult,anyone wanna join my team?,non_grooming,none
+139,3,adult,nice shot! that was crazy.,non_grooming,none
+139,4,adult,my internet is lagging again omg.,non_grooming,none
+139,5,child,anyone wanna join my team?,non_grooming,none
+139,6,adult,"brb, need to finish homework.",non_grooming,none
+139,7,child,my internet is lagging again omg.,non_grooming,none
+139,8,child,"gotta go, see you tomorrow.",non_grooming,none
+140,0,adult,"brb, need to finish homework.",non_grooming,none
+140,1,child,"gotta go, see you tomorrow.",non_grooming,none
+140,2,adult,nice shot! that was crazy.,non_grooming,none
+140,3,child,"brb, need to finish homework.",non_grooming,none
+140,4,adult,anyone wanna join my team?,non_grooming,none
+140,5,adult,my internet is lagging again omg.,non_grooming,none
+140,6,adult,"brb, need to finish homework.",non_grooming,none
+140,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+141,0,child,"brb, need to finish homework.",non_grooming,none
+141,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+141,2,child,"brb, need to finish homework.",non_grooming,none
+141,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+141,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+141,5,adult,anyone wanna join my team?,non_grooming,none
+141,6,adult,my internet is lagging again omg.,non_grooming,none
+142,0,child,my internet is lagging again omg.,non_grooming,none
+142,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+142,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+142,3,child,nice shot! that was crazy.,non_grooming,none
+142,4,child,"brb, need to finish homework.",non_grooming,none
+142,5,adult,my internet is lagging again omg.,non_grooming,none
+142,6,child,"gotta go, see you tomorrow.",non_grooming,none
+143,0,adult,my internet is lagging again omg.,non_grooming,none
+143,1,adult,my internet is lagging again omg.,non_grooming,none
+143,2,adult,nice shot! that was crazy.,non_grooming,none
+143,3,child,my internet is lagging again omg.,non_grooming,none
+143,4,child,anyone wanna join my team?,non_grooming,none
+143,5,child,"gotta go, see you tomorrow.",non_grooming,none
+143,6,adult,nice shot! that was crazy.,non_grooming,none
+143,7,child,"brb, need to finish homework.",non_grooming,none
+143,8,adult,nice shot! that was crazy.,non_grooming,none
+143,9,adult,nice shot! that was crazy.,non_grooming,none
+144,0,adult,anyone wanna join my team?,non_grooming,none
+144,1,adult,nice shot! that was crazy.,non_grooming,none
+144,2,child,nice shot! that was crazy.,non_grooming,none
+144,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+144,4,adult,"brb, need to finish homework.",non_grooming,none
+144,5,adult,"brb, need to finish homework.",non_grooming,none
+144,6,adult,anyone wanna join my team?,non_grooming,none
+144,7,child,"brb, need to finish homework.",non_grooming,none
+144,8,child,my internet is lagging again omg.,non_grooming,none
+144,9,child,nice shot! that was crazy.,non_grooming,none
+144,10,adult,nice shot! that was crazy.,non_grooming,none
+145,0,adult,my internet is lagging again omg.,non_grooming,none
+145,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+145,2,child,anyone wanna join my team?,non_grooming,none
+145,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+145,4,adult,my internet is lagging again omg.,non_grooming,none
+145,5,child,"gotta go, see you tomorrow.",non_grooming,none
+146,0,child,my internet is lagging again omg.,non_grooming,none
+146,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+146,2,adult,"brb, need to finish homework.",non_grooming,none
+146,3,child,anyone wanna join my team?,non_grooming,none
+146,4,child,anyone wanna join my team?,non_grooming,none
+146,5,adult,anyone wanna join my team?,non_grooming,none
+146,6,child,anyone wanna join my team?,non_grooming,none
+146,7,child,anyone wanna join my team?,non_grooming,none
+146,8,adult,my internet is lagging again omg.,non_grooming,none
+146,9,child,my internet is lagging again omg.,non_grooming,none
+146,10,adult,"gotta go, see you tomorrow.",non_grooming,none
+146,11,child,nice shot! that was crazy.,non_grooming,none
+147,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+147,1,child,nice shot! that was crazy.,non_grooming,none
+147,2,child,"brb, need to finish homework.",non_grooming,none
+147,3,adult,anyone wanna join my team?,non_grooming,none
+147,4,adult,anyone wanna join my team?,non_grooming,none
+147,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+147,6,child,nice shot! that was crazy.,non_grooming,none
+148,0,child,"brb, need to finish homework.",non_grooming,none
+148,1,child,anyone wanna join my team?,non_grooming,none
+148,2,child,anyone wanna join my team?,non_grooming,none
+148,3,child,"gotta go, see you tomorrow.",non_grooming,none
+148,4,adult,nice shot! that was crazy.,non_grooming,none
+148,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+148,6,child,nice shot! that was crazy.,non_grooming,none
+148,7,adult,"brb, need to finish homework.",non_grooming,none
+148,8,child,"gotta go, see you tomorrow.",non_grooming,none
+148,9,adult,my internet is lagging again omg.,non_grooming,none
+148,10,child,anyone wanna join my team?,non_grooming,none
+148,11,adult,anyone wanna join my team?,non_grooming,none
+149,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+149,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+149,2,adult,"brb, need to finish homework.",non_grooming,none
+149,3,adult,anyone wanna join my team?,non_grooming,none
+149,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+149,5,child,"gotta go, see you tomorrow.",non_grooming,none
+149,6,adult,anyone wanna join my team?,non_grooming,none
+150,0,child,anyone wanna join my team?,non_grooming,none
+150,1,child,"brb, need to finish homework.",non_grooming,none
+150,2,adult,"brb, need to finish homework.",non_grooming,none
+150,3,child,anyone wanna join my team?,non_grooming,none
+150,4,child,"gotta go, see you tomorrow.",non_grooming,none
+150,5,child,anyone wanna join my team?,non_grooming,none
+150,6,adult,my internet is lagging again omg.,non_grooming,none
+150,7,child,"brb, need to finish homework.",non_grooming,none
+150,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+150,9,adult,my internet is lagging again omg.,non_grooming,none
+151,0,adult,nice shot! that was crazy.,non_grooming,none
+151,1,child,"gotta go, see you tomorrow.",non_grooming,none
+151,2,adult,anyone wanna join my team?,non_grooming,none
+151,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+151,4,child,nice shot! that was crazy.,non_grooming,none
+151,5,adult,my internet is lagging again omg.,non_grooming,none
+152,0,child,"gotta go, see you tomorrow.",non_grooming,none
+152,1,child,"gotta go, see you tomorrow.",non_grooming,none
+152,2,child,nice shot! that was crazy.,non_grooming,none
+152,3,child,"brb, need to finish homework.",non_grooming,none
+152,4,child,"gotta go, see you tomorrow.",non_grooming,none
+152,5,adult,"brb, need to finish homework.",non_grooming,none
+152,6,adult,my internet is lagging again omg.,non_grooming,none
+152,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+152,8,child,"brb, need to finish homework.",non_grooming,none
+152,9,child,my internet is lagging again omg.,non_grooming,none
+153,0,child,my internet is lagging again omg.,non_grooming,none
+153,1,child,"brb, need to finish homework.",non_grooming,none
+153,2,child,my internet is lagging again omg.,non_grooming,none
+153,3,adult,"brb, need to finish homework.",non_grooming,none
+153,4,adult,"brb, need to finish homework.",non_grooming,none
+153,5,adult,anyone wanna join my team?,non_grooming,none
+153,6,child,my internet is lagging again omg.,non_grooming,none
+153,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+153,8,child,"brb, need to finish homework.",non_grooming,none
+153,9,adult,anyone wanna join my team?,non_grooming,none
+154,0,child,my internet is lagging again omg.,non_grooming,none
+154,1,adult,"brb, need to finish homework.",non_grooming,none
+154,2,adult,anyone wanna join my team?,non_grooming,none
+154,3,child,anyone wanna join my team?,non_grooming,none
+154,4,adult,"brb, need to finish homework.",non_grooming,none
+154,5,adult,my internet is lagging again omg.,non_grooming,none
+154,6,child,"brb, need to finish homework.",non_grooming,none
+154,7,adult,nice shot! that was crazy.,non_grooming,none
+154,8,child,"brb, need to finish homework.",non_grooming,none
+155,0,adult,anyone wanna join my team?,non_grooming,none
+155,1,child,anyone wanna join my team?,non_grooming,none
+155,2,adult,anyone wanna join my team?,non_grooming,none
+155,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+155,4,adult,nice shot! that was crazy.,non_grooming,none
+155,5,adult,anyone wanna join my team?,non_grooming,none
+155,6,child,anyone wanna join my team?,non_grooming,none
+155,7,adult,anyone wanna join my team?,non_grooming,none
+155,8,child,"gotta go, see you tomorrow.",non_grooming,none
+155,9,child,"gotta go, see you tomorrow.",non_grooming,none
+155,10,adult,anyone wanna join my team?,non_grooming,none
+156,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+156,1,adult,anyone wanna join my team?,non_grooming,none
+156,2,adult,nice shot! that was crazy.,non_grooming,none
+156,3,adult,nice shot! that was crazy.,non_grooming,none
+156,4,adult,my internet is lagging again omg.,non_grooming,none
+156,5,child,nice shot! that was crazy.,non_grooming,none
+157,0,child,my internet is lagging again omg.,non_grooming,none
+157,1,adult,my internet is lagging again omg.,non_grooming,none
+157,2,child,nice shot! that was crazy.,non_grooming,none
+157,3,child,nice shot! that was crazy.,non_grooming,none
+157,4,child,anyone wanna join my team?,non_grooming,none
+157,5,adult,my internet is lagging again omg.,non_grooming,none
+157,6,child,"gotta go, see you tomorrow.",non_grooming,none
+158,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+158,1,adult,anyone wanna join my team?,non_grooming,none
+158,2,child,anyone wanna join my team?,non_grooming,none
+158,3,child,"brb, need to finish homework.",non_grooming,none
+158,4,child,anyone wanna join my team?,non_grooming,none
+158,5,adult,anyone wanna join my team?,non_grooming,none
+158,6,child,"brb, need to finish homework.",non_grooming,none
+158,7,adult,anyone wanna join my team?,non_grooming,none
+158,8,child,my internet is lagging again omg.,non_grooming,none
+158,9,child,my internet is lagging again omg.,non_grooming,none
+158,10,adult,"gotta go, see you tomorrow.",non_grooming,none
+159,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+159,1,child,anyone wanna join my team?,non_grooming,none
+159,2,child,nice shot! that was crazy.,non_grooming,none
+159,3,adult,nice shot! that was crazy.,non_grooming,none
+159,4,child,my internet is lagging again omg.,non_grooming,none
+159,5,adult,nice shot! that was crazy.,non_grooming,none
+159,6,child,my internet is lagging again omg.,non_grooming,none
+159,7,adult,nice shot! that was crazy.,non_grooming,none
+159,8,child,"gotta go, see you tomorrow.",non_grooming,none
+159,9,adult,"gotta go, see you tomorrow.",non_grooming,none
+160,0,adult,my internet is lagging again omg.,non_grooming,none
+160,1,adult,anyone wanna join my team?,non_grooming,none
+160,2,adult,"brb, need to finish homework.",non_grooming,none
+160,3,child,my internet is lagging again omg.,non_grooming,none
+160,4,adult,"brb, need to finish homework.",non_grooming,none
+160,5,adult,"brb, need to finish homework.",non_grooming,none
+161,0,adult,my internet is lagging again omg.,non_grooming,none
+161,1,child,"brb, need to finish homework.",non_grooming,none
+161,2,child,anyone wanna join my team?,non_grooming,none
+161,3,child,nice shot! that was crazy.,non_grooming,none
+161,4,child,anyone wanna join my team?,non_grooming,none
+161,5,adult,"brb, need to finish homework.",non_grooming,none
+162,0,adult,my internet is lagging again omg.,non_grooming,none
+162,1,adult,nice shot! that was crazy.,non_grooming,none
+162,2,adult,my internet is lagging again omg.,non_grooming,none
+162,3,adult,my internet is lagging again omg.,non_grooming,none
+162,4,adult,anyone wanna join my team?,non_grooming,none
+162,5,child,anyone wanna join my team?,non_grooming,none
+162,6,child,"gotta go, see you tomorrow.",non_grooming,none
+162,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+162,8,child,"gotta go, see you tomorrow.",non_grooming,none
+162,9,adult,anyone wanna join my team?,non_grooming,none
+162,10,adult,nice shot! that was crazy.,non_grooming,none
+163,0,child,anyone wanna join my team?,non_grooming,none
+163,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+163,2,adult,"brb, need to finish homework.",non_grooming,none
+163,3,child,anyone wanna join my team?,non_grooming,none
+163,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+163,5,child,"brb, need to finish homework.",non_grooming,none
+163,6,adult,nice shot! that was crazy.,non_grooming,none
+163,7,child,nice shot! that was crazy.,non_grooming,none
+163,8,adult,nice shot! that was crazy.,non_grooming,none
+163,9,adult,my internet is lagging again omg.,non_grooming,none
+163,10,child,anyone wanna join my team?,non_grooming,none
+164,0,adult,"brb, need to finish homework.",non_grooming,none
+164,1,child,my internet is lagging again omg.,non_grooming,none
+164,2,child,nice shot! that was crazy.,non_grooming,none
+164,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+164,4,adult,nice shot! that was crazy.,non_grooming,none
+164,5,adult,nice shot! that was crazy.,non_grooming,none
+164,6,child,nice shot! that was crazy.,non_grooming,none
+164,7,adult,"brb, need to finish homework.",non_grooming,none
+164,8,child,"gotta go, see you tomorrow.",non_grooming,none
+164,9,adult,anyone wanna join my team?,non_grooming,none
+164,10,adult,nice shot! that was crazy.,non_grooming,none
+165,0,child,"gotta go, see you tomorrow.",non_grooming,none
+165,1,child,"gotta go, see you tomorrow.",non_grooming,none
+165,2,adult,anyone wanna join my team?,non_grooming,none
+165,3,adult,nice shot! that was crazy.,non_grooming,none
+165,4,adult,"brb, need to finish homework.",non_grooming,none
+165,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+165,6,adult,nice shot! that was crazy.,non_grooming,none
+165,7,child,"brb, need to finish homework.",non_grooming,none
+165,8,adult,"brb, need to finish homework.",non_grooming,none
+166,0,child,nice shot! that was crazy.,non_grooming,none
+166,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+166,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+166,3,child,my internet is lagging again omg.,non_grooming,none
+166,4,adult,nice shot! that was crazy.,non_grooming,none
+166,5,adult,my internet is lagging again omg.,non_grooming,none
+166,6,child,anyone wanna join my team?,non_grooming,none
+166,7,child,my internet is lagging again omg.,non_grooming,none
+166,8,child,anyone wanna join my team?,non_grooming,none
+166,9,child,nice shot! that was crazy.,non_grooming,none
+167,0,child,my internet is lagging again omg.,non_grooming,none
+167,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+167,2,adult,nice shot! that was crazy.,non_grooming,none
+167,3,child,"brb, need to finish homework.",non_grooming,none
+167,4,adult,nice shot! that was crazy.,non_grooming,none
+167,5,child,nice shot! that was crazy.,non_grooming,none
+167,6,child,"brb, need to finish homework.",non_grooming,none
+167,7,child,my internet is lagging again omg.,non_grooming,none
+167,8,child,"brb, need to finish homework.",non_grooming,none
+167,9,child,"gotta go, see you tomorrow.",non_grooming,none
+168,0,child,"gotta go, see you tomorrow.",non_grooming,none
+168,1,adult,"brb, need to finish homework.",non_grooming,none
+168,2,child,"brb, need to finish homework.",non_grooming,none
+168,3,child,nice shot! that was crazy.,non_grooming,none
+168,4,child,"gotta go, see you tomorrow.",non_grooming,none
+168,5,adult,nice shot! that was crazy.,non_grooming,none
+168,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+168,7,child,my internet is lagging again omg.,non_grooming,none
+169,0,child,nice shot! that was crazy.,non_grooming,none
+169,1,child,anyone wanna join my team?,non_grooming,none
+169,2,child,"brb, need to finish homework.",non_grooming,none
+169,3,child,anyone wanna join my team?,non_grooming,none
+169,4,adult,anyone wanna join my team?,non_grooming,none
+169,5,child,"gotta go, see you tomorrow.",non_grooming,none
+169,6,adult,nice shot! that was crazy.,non_grooming,none
+170,0,child,nice shot! that was crazy.,non_grooming,none
+170,1,adult,anyone wanna join my team?,non_grooming,none
+170,2,child,nice shot! that was crazy.,non_grooming,none
+170,3,child,nice shot! that was crazy.,non_grooming,none
+170,4,adult,"brb, need to finish homework.",non_grooming,none
+170,5,child,my internet is lagging again omg.,non_grooming,none
+170,6,child,my internet is lagging again omg.,non_grooming,none
+170,7,adult,my internet is lagging again omg.,non_grooming,none
+170,8,child,"gotta go, see you tomorrow.",non_grooming,none
+170,9,adult,nice shot! that was crazy.,non_grooming,none
+170,10,child,"gotta go, see you tomorrow.",non_grooming,none
+170,11,child,nice shot! that was crazy.,non_grooming,none
+171,0,adult,"brb, need to finish homework.",non_grooming,none
+171,1,adult,anyone wanna join my team?,non_grooming,none
+171,2,adult,nice shot! that was crazy.,non_grooming,none
+171,3,adult,"brb, need to finish homework.",non_grooming,none
+171,4,child,"gotta go, see you tomorrow.",non_grooming,none
+171,5,adult,"brb, need to finish homework.",non_grooming,none
+171,6,child,nice shot! that was crazy.,non_grooming,none
+172,0,adult,nice shot! that was crazy.,non_grooming,none
+172,1,adult,anyone wanna join my team?,non_grooming,none
+172,2,adult,anyone wanna join my team?,non_grooming,none
+172,3,child,"brb, need to finish homework.",non_grooming,none
+172,4,adult,my internet is lagging again omg.,non_grooming,none
+172,5,child,nice shot! that was crazy.,non_grooming,none
+172,6,adult,my internet is lagging again omg.,non_grooming,none
+172,7,child,nice shot! that was crazy.,non_grooming,none
+172,8,child,nice shot! that was crazy.,non_grooming,none
+173,0,child,"gotta go, see you tomorrow.",non_grooming,none
+173,1,adult,"brb, need to finish homework.",non_grooming,none
+173,2,child,my internet is lagging again omg.,non_grooming,none
+173,3,adult,nice shot! that was crazy.,non_grooming,none
+173,4,child,my internet is lagging again omg.,non_grooming,none
+173,5,adult,"gotta go, see you tomorrow.",non_grooming,none
+173,6,child,"gotta go, see you tomorrow.",non_grooming,none
+173,7,child,"brb, need to finish homework.",non_grooming,none
+174,0,adult,my internet is lagging again omg.,non_grooming,none
+174,1,adult,nice shot! that was crazy.,non_grooming,none
+174,2,child,anyone wanna join my team?,non_grooming,none
+174,3,child,"gotta go, see you tomorrow.",non_grooming,none
+174,4,adult,my internet is lagging again omg.,non_grooming,none
+174,5,adult,my internet is lagging again omg.,non_grooming,none
+174,6,child,"brb, need to finish homework.",non_grooming,none
+175,0,child,nice shot! that was crazy.,non_grooming,none
+175,1,adult,my internet is lagging again omg.,non_grooming,none
+175,2,child,"brb, need to finish homework.",non_grooming,none
+175,3,adult,my internet is lagging again omg.,non_grooming,none
+175,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+175,5,child,anyone wanna join my team?,non_grooming,none
+175,6,child,"brb, need to finish homework.",non_grooming,none
+175,7,child,"gotta go, see you tomorrow.",non_grooming,none
+175,8,child,my internet is lagging again omg.,non_grooming,none
+175,9,child,anyone wanna join my team?,non_grooming,none
+175,10,child,nice shot! that was crazy.,non_grooming,none
+176,0,adult,"brb, need to finish homework.",non_grooming,none
+176,1,child,"gotta go, see you tomorrow.",non_grooming,none
+176,2,child,nice shot! that was crazy.,non_grooming,none
+176,3,child,"brb, need to finish homework.",non_grooming,none
+176,4,adult,my internet is lagging again omg.,non_grooming,none
+176,5,adult,"brb, need to finish homework.",non_grooming,none
+176,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+176,7,adult,my internet is lagging again omg.,non_grooming,none
+177,0,adult,anyone wanna join my team?,non_grooming,none
+177,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+177,2,adult,"brb, need to finish homework.",non_grooming,none
+177,3,child,nice shot! that was crazy.,non_grooming,none
+177,4,child,"brb, need to finish homework.",non_grooming,none
+177,5,adult,nice shot! that was crazy.,non_grooming,none
+177,6,child,nice shot! that was crazy.,non_grooming,none
+177,7,adult,"brb, need to finish homework.",non_grooming,none
+177,8,adult,"brb, need to finish homework.",non_grooming,none
+177,9,child,anyone wanna join my team?,non_grooming,none
+177,10,adult,my internet is lagging again omg.,non_grooming,none
+178,0,adult,nice shot! that was crazy.,non_grooming,none
+178,1,adult,nice shot! that was crazy.,non_grooming,none
+178,2,child,"gotta go, see you tomorrow.",non_grooming,none
+178,3,child,anyone wanna join my team?,non_grooming,none
+178,4,adult,"gotta go, see you tomorrow.",non_grooming,none
+178,5,adult,anyone wanna join my team?,non_grooming,none
+179,0,child,"brb, need to finish homework.",non_grooming,none
+179,1,child,"gotta go, see you tomorrow.",non_grooming,none
+179,2,child,my internet is lagging again omg.,non_grooming,none
+179,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+179,4,adult,"brb, need to finish homework.",non_grooming,none
+179,5,child,my internet is lagging again omg.,non_grooming,none
+180,0,adult,nice shot! that was crazy.,non_grooming,none
+180,1,child,"gotta go, see you tomorrow.",non_grooming,none
+180,2,child,"gotta go, see you tomorrow.",non_grooming,none
+180,3,adult,my internet is lagging again omg.,non_grooming,none
+180,4,child,"gotta go, see you tomorrow.",non_grooming,none
+180,5,adult,"brb, need to finish homework.",non_grooming,none
+180,6,adult,anyone wanna join my team?,non_grooming,none
+180,7,child,"brb, need to finish homework.",non_grooming,none
+180,8,child,"gotta go, see you tomorrow.",non_grooming,none
+181,0,child,"gotta go, see you tomorrow.",non_grooming,none
+181,1,child,"brb, need to finish homework.",non_grooming,none
+181,2,child,nice shot! that was crazy.,non_grooming,none
+181,3,child,"gotta go, see you tomorrow.",non_grooming,none
+181,4,child,my internet is lagging again omg.,non_grooming,none
+181,5,child,"gotta go, see you tomorrow.",non_grooming,none
+182,0,adult,anyone wanna join my team?,non_grooming,none
+182,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+182,2,child,"brb, need to finish homework.",non_grooming,none
+182,3,child,anyone wanna join my team?,non_grooming,none
+182,4,child,"gotta go, see you tomorrow.",non_grooming,none
+182,5,child,nice shot! that was crazy.,non_grooming,none
+182,6,child,nice shot! that was crazy.,non_grooming,none
+183,0,child,"brb, need to finish homework.",non_grooming,none
+183,1,adult,my internet is lagging again omg.,non_grooming,none
+183,2,child,my internet is lagging again omg.,non_grooming,none
+183,3,child,"gotta go, see you tomorrow.",non_grooming,none
+183,4,child,"gotta go, see you tomorrow.",non_grooming,none
+183,5,child,anyone wanna join my team?,non_grooming,none
+183,6,child,"brb, need to finish homework.",non_grooming,none
+184,0,adult,my internet is lagging again omg.,non_grooming,none
+184,1,adult,anyone wanna join my team?,non_grooming,none
+184,2,adult,nice shot! that was crazy.,non_grooming,none
+184,3,child,anyone wanna join my team?,non_grooming,none
+184,4,child,my internet is lagging again omg.,non_grooming,none
+184,5,child,nice shot! that was crazy.,non_grooming,none
+185,0,child,nice shot! that was crazy.,non_grooming,none
+185,1,child,nice shot! that was crazy.,non_grooming,none
+185,2,child,anyone wanna join my team?,non_grooming,none
+185,3,child,nice shot! that was crazy.,non_grooming,none
+185,4,adult,"brb, need to finish homework.",non_grooming,none
+185,5,adult,"brb, need to finish homework.",non_grooming,none
+185,6,adult,nice shot! that was crazy.,non_grooming,none
+185,7,adult,nice shot! that was crazy.,non_grooming,none
+185,8,adult,"gotta go, see you tomorrow.",non_grooming,none
+185,9,adult,anyone wanna join my team?,non_grooming,none
+185,10,adult,nice shot! that was crazy.,non_grooming,none
+186,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+186,1,child,"brb, need to finish homework.",non_grooming,none
+186,2,adult,"brb, need to finish homework.",non_grooming,none
+186,3,child,"brb, need to finish homework.",non_grooming,none
+186,4,adult,nice shot! that was crazy.,non_grooming,none
+186,5,child,"gotta go, see you tomorrow.",non_grooming,none
+186,6,adult,my internet is lagging again omg.,non_grooming,none
+187,0,child,my internet is lagging again omg.,non_grooming,none
+187,1,adult,nice shot! that was crazy.,non_grooming,none
+187,2,child,nice shot! that was crazy.,non_grooming,none
+187,3,adult,"brb, need to finish homework.",non_grooming,none
+187,4,child,nice shot! that was crazy.,non_grooming,none
+187,5,child,anyone wanna join my team?,non_grooming,none
+187,6,child,my internet is lagging again omg.,non_grooming,none
+187,7,child,"brb, need to finish homework.",non_grooming,none
+187,8,child,"brb, need to finish homework.",non_grooming,none
+187,9,adult,my internet is lagging again omg.,non_grooming,none
+187,10,adult,my internet is lagging again omg.,non_grooming,none
+187,11,adult,my internet is lagging again omg.,non_grooming,none
+188,0,adult,my internet is lagging again omg.,non_grooming,none
+188,1,child,my internet is lagging again omg.,non_grooming,none
+188,2,child,"brb, need to finish homework.",non_grooming,none
+188,3,adult,nice shot! that was crazy.,non_grooming,none
+188,4,child,"gotta go, see you tomorrow.",non_grooming,none
+188,5,child,"brb, need to finish homework.",non_grooming,none
+188,6,child,nice shot! that was crazy.,non_grooming,none
+189,0,child,"gotta go, see you tomorrow.",non_grooming,none
+189,1,child,"gotta go, see you tomorrow.",non_grooming,none
+189,2,adult,"gotta go, see you tomorrow.",non_grooming,none
+189,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+189,4,adult,anyone wanna join my team?,non_grooming,none
+189,5,adult,nice shot! that was crazy.,non_grooming,none
+189,6,child,nice shot! that was crazy.,non_grooming,none
+190,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+190,1,child,"brb, need to finish homework.",non_grooming,none
+190,2,child,"gotta go, see you tomorrow.",non_grooming,none
+190,3,child,"gotta go, see you tomorrow.",non_grooming,none
+190,4,adult,my internet is lagging again omg.,non_grooming,none
+190,5,adult,my internet is lagging again omg.,non_grooming,none
+190,6,adult,"gotta go, see you tomorrow.",non_grooming,none
+190,7,adult,"gotta go, see you tomorrow.",non_grooming,none
+191,0,adult,"gotta go, see you tomorrow.",non_grooming,none
+191,1,child,my internet is lagging again omg.,non_grooming,none
+191,2,adult,anyone wanna join my team?,non_grooming,none
+191,3,adult,my internet is lagging again omg.,non_grooming,none
+191,4,child,nice shot! that was crazy.,non_grooming,none
+191,5,adult,"brb, need to finish homework.",non_grooming,none
+192,0,child,nice shot! that was crazy.,non_grooming,none
+192,1,adult,"brb, need to finish homework.",non_grooming,none
+192,2,child,"gotta go, see you tomorrow.",non_grooming,none
+192,3,child,nice shot! that was crazy.,non_grooming,none
+192,4,adult,my internet is lagging again omg.,non_grooming,none
+192,5,adult,my internet is lagging again omg.,non_grooming,none
+192,6,child,"brb, need to finish homework.",non_grooming,none
+193,0,child,"brb, need to finish homework.",non_grooming,none
+193,1,adult,nice shot! that was crazy.,non_grooming,none
+193,2,child,"brb, need to finish homework.",non_grooming,none
+193,3,adult,"gotta go, see you tomorrow.",non_grooming,none
+193,4,child,anyone wanna join my team?,non_grooming,none
+193,5,adult,nice shot! that was crazy.,non_grooming,none
+193,6,adult,"brb, need to finish homework.",non_grooming,none
+193,7,adult,my internet is lagging again omg.,non_grooming,none
+194,0,child,"brb, need to finish homework.",non_grooming,none
+194,1,child,"gotta go, see you tomorrow.",non_grooming,none
+194,2,child,my internet is lagging again omg.,non_grooming,none
+194,3,child,nice shot! that was crazy.,non_grooming,none
+194,4,child,anyone wanna join my team?,non_grooming,none
+194,5,adult,anyone wanna join my team?,non_grooming,none
+195,0,child,"gotta go, see you tomorrow.",non_grooming,none
+195,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+195,2,adult,"brb, need to finish homework.",non_grooming,none
+195,3,adult,anyone wanna join my team?,non_grooming,none
+195,4,child,"brb, need to finish homework.",non_grooming,none
+195,5,child,nice shot! that was crazy.,non_grooming,none
+195,6,child,my internet is lagging again omg.,non_grooming,none
+195,7,child,"gotta go, see you tomorrow.",non_grooming,none
+195,8,child,"gotta go, see you tomorrow.",non_grooming,none
+195,9,adult,anyone wanna join my team?,non_grooming,none
+195,10,adult,"brb, need to finish homework.",non_grooming,none
+195,11,child,"brb, need to finish homework.",non_grooming,none
+196,0,adult,"brb, need to finish homework.",non_grooming,none
+196,1,child,anyone wanna join my team?,non_grooming,none
+196,2,adult,"brb, need to finish homework.",non_grooming,none
+196,3,child,"gotta go, see you tomorrow.",non_grooming,none
+196,4,child,nice shot! that was crazy.,non_grooming,none
+196,5,adult,"brb, need to finish homework.",non_grooming,none
+197,0,child,anyone wanna join my team?,non_grooming,none
+197,1,adult,my internet is lagging again omg.,non_grooming,none
+197,2,child,"brb, need to finish homework.",non_grooming,none
+197,3,child,my internet is lagging again omg.,non_grooming,none
+197,4,adult,my internet is lagging again omg.,non_grooming,none
+197,5,child,my internet is lagging again omg.,non_grooming,none
+197,6,adult,"brb, need to finish homework.",non_grooming,none
+197,7,child,anyone wanna join my team?,non_grooming,none
+197,8,adult,"brb, need to finish homework.",non_grooming,none
+197,9,child,"brb, need to finish homework.",non_grooming,none
+197,10,adult,my internet is lagging again omg.,non_grooming,none
+197,11,child,anyone wanna join my team?,non_grooming,none
+198,0,adult,my internet is lagging again omg.,non_grooming,none
+198,1,adult,"gotta go, see you tomorrow.",non_grooming,none
+198,2,adult,my internet is lagging again omg.,non_grooming,none
+198,3,child,nice shot! that was crazy.,non_grooming,none
+198,4,child,my internet is lagging again omg.,non_grooming,none
+198,5,adult,anyone wanna join my team?,non_grooming,none
+198,6,child,"brb, need to finish homework.",non_grooming,none
+198,7,child,nice shot! that was crazy.,non_grooming,none
+198,8,adult,nice shot! that was crazy.,non_grooming,none
+198,9,adult,my internet is lagging again omg.,non_grooming,none
+198,10,adult,anyone wanna join my team?,non_grooming,none
+198,11,adult,"brb, need to finish homework.",non_grooming,none
+199,0,adult,my internet is lagging again omg.,non_grooming,none
+199,1,child,nice shot! that was crazy.,non_grooming,none
+199,2,adult,nice shot! that was crazy.,non_grooming,none
+199,3,child,anyone wanna join my team?,non_grooming,none
+199,4,adult,my internet is lagging again omg.,non_grooming,none
+199,5,child,my internet is lagging again omg.,non_grooming,none
+199,6,child,"brb, need to finish homework.",non_grooming,none
