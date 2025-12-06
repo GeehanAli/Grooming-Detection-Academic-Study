@@ -1,7 +1,7 @@
 # Analysis Summary  
 **Grooming Detection — Academic ML Study Using Synthetic Gaming Chats**
 
-This document summarizes the exploratory modeling work completed for Milestone 3. It outlines how the dataset was prepared, how multiple models performed, and how these results should be interpreted within the context of an academic, synthetic-data–based project. It also integrates key limitations and considerations raised in the literature and by mentor feedback.
+This document summarizes the exploratory modeling work completed for Milestone 3. It outlines how the dataset was prepared, how multiple models performed, and how these results should be interpreted within the context of an academic, synthetic-data–based project. It also integrates key limitations and considerations raised in the literature and by my supervisor feedback.
 
 ---
 
