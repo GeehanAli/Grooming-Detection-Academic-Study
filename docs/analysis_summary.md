@@ -74,4 +74,69 @@ Early stages—friendship forming and trust building—are:
 
 - psychologically universal  
 - present across cultures  
-- s
+- subtle in vocabulary  
+- rarely detected by current tools  
+
+This study provides an initial academic exploration of that gap by evaluating whether ML models can learn early-stage cues even within limited synthetic environments.
+
+---
+
+## Limitations
+
+Despite meaningful insights, this study has important limitations:
+
+### **Synthetic Data Constraints**
+- Synthetic conversations cannot fully capture the richness, noise, humor, or unpredictability of real chats.  
+- Grooming messages may appear too idealized or patterned compared to real offenders.
+
+### **Cultural and Linguistic Scope**
+- The dataset is English-only.  
+- Cultural language variation is not represented.  
+- Models would not generalize across multilingual settings without retraining.
+
+### **Inflated Accuracy**
+- Balanced datasets inflate performance.  
+- Real-world grooming is extremely rare, meaning false positives would rise significantly.
+
+### **No Real-World Validation**
+- Without access to platform-level chat logs, it is impossible to measure deployability or safety impact.
+
+These limitations are acknowledged explicitly to ensure transparency in how results should—and shouldn’t—be interpreted.
+
+---
+
+## Future Directions and Proposed Solutions
+
+Based on findings and limitations, future work could explore several promising directions:
+
+### **1. Improved Synthetic Data Realism**
+- Introduce more slang variability, noise, humor, and multi-speaker dynamics  
+- Expand cultural and linguistic diversity  
+- Simulate more ambiguous or borderline conversations
+
+### **2. Detection of Conversational Shifts**
+Instead of detecting grooming phrases, future systems could measure:
+- sudden changes in tone  
+- increases in emotional intimacy  
+- frequency of secrecy requests  
+
+This would move toward a **behavioral detection approach**, more aligned with psychological theories.
+
+
+### **3. Hybrid Systems**
+Combine:
+- fast keyword filters (low cost)  
+- deeper ML analysis triggered only when conversation context appears unusual  
+
+This would reduce computational cost while improving accuracy.
+
+---
+
+## Conclusion
+
+Through this academic study, I explored how keyword systems, linear models, and neural models interpret grooming-related patterns in synthetic gaming chats. While the models demonstrated strong ability to detect early-stage cues within this controlled environment, the limitations of synthetic data, privacy restrictions, and real-time scalability make it clear that these findings represent a foundation—not a full solution.
+
+Still, the insights from this work contribute to an important research gap:  
+**the need for tools that can detect grooming in its earliest psychological phases, before explicit harm occurs.**
+
+I hope this analysis encourages future research into privacy-preserving, culturally aware, and behavior-focused detection approaches capable of providing safer digital environments for children while respecting their autonomy and the integrity of online platforms.
