@@ -1,99 +1,97 @@
-# Public-Facing Summary  
-### Early Detection of Online Grooming in Gaming Chats: An Academic Machine-Learning Exploration  
-
-Online gaming spaces bring joy, creativity, and social connection to millions of children—but they also expose them to the hidden risk of online grooming. Grooming typically begins with friendly, harmless conversation, gradually progressing through psychological stages such as trust-building and isolation long before any explicit harm occurs. These early stages are subtle, universal across cultures, and extremely difficult for existing tools to detect.
-
-As a mother whose children love online games, this challenge is deeply personal. I see the happiness, imagination, and confidence these digital communities give them, but I am also aware of the risks that can hide beneath seemingly innocent interactions. This project grew from a desire to understand whether machine learning could help protect children earlier, at the universal psychological stages where grooming begins—before escalation happens.
-
-Because real chat logs are protected by privacy policies and strict platform restrictions, this project uses synthetic data to explore what machine learning *might* achieve under controlled academic conditions. The goal is not to deploy a product, but to understand model behavior, limitations, and opportunities for innovation in early-stage grooming detection.
+# Public Summary — Detecting Early Grooming in Gaming Chats  
+*MIT Emerging Talent — ELO2 Capstone (Academic Study)*  
+*Author: Geehan Ali*
 
 ---
 
-## What This Project Explores  
-This academic study examines how different machine-learning models behave when trained on synthetic gaming chat data. The project compares:
+## Overview
 
-- A simple **keyword-based filter** (similar to many commercial parental tools)
-- A **Logistic Regression** model
-- A **Support Vector Machine (SVM)**
-- A **Multi-Layer Perceptron (MLP)** neural network
+This project explores whether machine learning can detect **early signs of online grooming** within **synthetic gaming chat conversations**. Early grooming is subtle, relational, and often appears friendly—making it extremely difficult to identify.
 
-The dataset includes synthetic conversations labeled by grooming stage (friendship-forming, trust-building, isolation, escalation) and non-grooming examples containing normal gaming chatter, slang, emojis, and noise.
-
-The primary question is:
-
-**Can machine learning detect the earliest psychological signals of grooming more effectively than keyword filters?**
-
-This is the central gap addressed. While many tools detect explicit harmful content, very few attempt to identify *early-stage grooming patterns*, even though these early signals are universal and well documented in psychological literature.
+This academic study investigates the feasibility of early-stage detection *in theory*, using carefully constructed synthetic data, while recognizing the ethical and technical challenges of real-world deployment.
 
 ---
 
-## Key Findings (Simplified for a Public Audience)
+## Why This Matters
 
-### 1. Machine-learning models significantly outperform simple keyword filters  
-- Keywords capture only obvious signals.  
-- ML models are able to recognize **context, tone, relational patterns**, and subtle shifts in language.  
+Online gaming is a core part of children's social lives.  
+As a mother, keeping those spaces safe is deeply meaningful to me.
 
-This suggests that psychological-based early detection is theoretically possible.
+Most existing safety tools rely on keyword filtering, which fails to capture:
 
-### 2. Early-stage grooming does produce detectable linguistic patterns  
-Even in synthetic form, models learned differences between:
-- normal gaming friendship chat  
-- friendship-forming grooming attempts  
-- trust-building language  
-- isolating/manipulative patterns  
+- trust-building  
+- secrecy invitations  
+- emotional manipulation  
+- changes in conversational tone  
 
-This supports the hypothesis that early stages *may* be algorithmically recognizable.
-
-### 3. Synthetic data is useful, but limited  
-Models sometimes over-performed because synthetic patterns were cleaner than real life.  
-This means high accuracy in this study does **not** reflect real-world performance.
+These early cues appear **before** explicit language—and current technology largely misses them.
 
 ---
 
-## Limitations  
-This project is intentionally transparent about its limitations:
+## The Gap
 
-- **Synthetic data** cannot match the complexity of real human conversations.  
-- **English-only dataset** limits cultural and linguistic generalization.  
-- **Model accuracy is inflated** because synthetic samples contain clearer patterns than real-world chats.  
-- **Real-time deployment was not tested**—this project is academic only.  
-- **Imbalanced real-world data was not fully replicated** (grooming cases are extremely rare).  
-- **Behavioral nuance is simplified** compared to real grooming situations.  
-- **Could not evaluate models against real commercial tools** due to lack of public APIs.  
-- **Privacy restrictions** prevent real platform integration or realistic operational testing.
+There is **no computational method** today that reliably detects early, universal grooming stages.
 
-These limitations define the boundary of what this academic study can claim—and reinforce why grooming detection remains an unsolved global challenge.
+This project contributes an academic exploration of whether ML models can begin to learn those patterns under controlled conditions.
 
 ---
 
-## Future Directions and Proposed Solutions  
+## Approach
 
-Based on findings and limitations, future work could explore several promising directions:
+Because real chat logs are inaccessible due to privacy laws and platform restrictions, this project uses **synthetic gaming conversations** to model:
 
-### 1. Improved Synthetic Data Realism  
-- Introduce more slang variability, noise, humor, and multi-speaker dynamics  
-- Expand cultural and linguistic diversity  
-- Simulate more ambiguous or borderline conversations  
+- friendship-forming  
+- trust-building  
+- isolation  
+- escalation  
 
-### 2. Detection of Conversational Shifts  
-Instead of detecting grooming phrases, future systems could measure:
-- sudden changes in tone  
-- increases in emotional intimacy  
-- frequency of secrecy requests  
+Three machine-learning models were tested:
 
-This would move toward a **behavioral detection approach**, better aligned with psychological theories of grooming.
+- Logistic Regression  
+- Support Vector Machine (SVM)  
+- Multi-Layer Perceptron (MLP)
 
-### 3. Hybrid Systems  
-Combine:  
-- **fast keyword filters** (low cost)  
-- **deeper ML analysis** triggered only when conversation context appears unusual  
-
-This hybrid architecture reduces computational cost while improving accuracy.
+Compared against a **keyword detector** inspired by grooming literature.
 
 ---
 
-## Final Reflection  
-This project does not claim to solve online grooming, nor does it attempt to replace real safety systems. Instead, it provides an exploratory academic foundation showing that machine learning *can theoretically detect early-stage grooming signals*—and that the gap between what tools do today and what could be possible is significant.
+## What I Found
 
-The hope behind this work is simple:  
-**to contribute one small step toward safer digital environments for children—beginning with understanding the early signals of harm before escalation occurs.**
+- ML models **outperformed keyword filtering** across all metrics.  
+- The **SVM model** performed best in distinguishing subtle conversational cues.  
+- The keyword baseline missed most early grooming patterns.  
+- The dataset was **realistically imbalanced**, adding difficulty and improving evaluation credibility.
+
+These results apply to synthetic data only—but they show promising academic evidence that early-stage detection may be feasible.
+
+---
+
+## Limitations
+
+- Synthetic dataset, not real chat logs  
+- English-only language  
+- Dataset is small  
+- Grooming stages are idealized  
+- No access to commercial tools for benchmarking (no public APIs)  
+- ML may learn synthetic artifacts rather than natural behavior  
+
+These limitations are important, and they guide how the results should be interpreted.
+
+---
+
+## Future Directions
+
+- Expand synthetic realism (slang, noise, cultural variety, ambiguous cases)  
+- Explore behavioral detection (tone shifts, emotional intimacy, secrecy patterns)  
+- Build hybrid systems combining keywords + ML for practical efficiency  
+
+---
+
+## Closing
+
+This project is a foundational step toward understanding what machine learning might contribute to child safety online.  
+It does not solve the problem—but it helps map the space between theoretical possibility and real-world protection.
+
+My motivation for this work is deeply personal, and my hope is that it supports future research that makes digital spaces safer for all children.
+
+---
